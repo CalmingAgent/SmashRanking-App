@@ -2,7 +2,8 @@ from lib2to3.pytree import convert
 import sqlite3
 from sqlite3 import Error
 import string
-
+'''SQL object to create and edit DB, default constructor is the connection name; this is required. 
+    The default columns and values wins,loses,ranking, tourney_placings, and the key name have already been created'''
 class SQLite:
     test = True
     #Detailed information, typically of interest only when diagnosing problems
@@ -91,11 +92,9 @@ class SQLite:
 
     
     
-#testing
-# conn = SQLite("DB")
+#testing database
+#conn=SQLite("DB")
 # cur =conn.open_DB()
-
-
 # cur.execute('''CREATE TABLE IF NOT EXISTS Players (
 #     DNA STRING PRIMARY KEY, 
 #     wins REAL, 
