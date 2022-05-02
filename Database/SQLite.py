@@ -5,7 +5,17 @@ import string
 
 class SQLite:
     test = True
+    #Detailed information, typically of interest only when diagnosing problems
     debuging = True
+    # Confirmation that things are working as expected.
+    info = False
+    #An indication that something unexpected happened, or indicative of some problem in the near future (e.g. ‘disk space low’). The software is still working as expected. 
+    #no need to have variable for this because Warning is the default value of logger
+    
+    #Due to a more serious problem, the software has not been able to perform some function.
+    log_error_testing= False
+    #A serious error, indicating that the program itself may be unable to continue running.
+    critical_error_testing = False
 
     def __init__(self, conn_name):
         self.cur = None
@@ -20,10 +30,10 @@ class SQLite:
     '''opens the SQLite DB object
         Retuns the cursor object of the open database'''
     def open_DB(self)-> sqlite3.connect:
-        #opens a connection to DB and if it is testing use RAM instead of name
         try:
             conn = sqlite3.connect(self.conn_name)
         except Error as e:
+            #error log here
             print(e)
     
         self.conn = conn
@@ -43,7 +53,8 @@ class SQLite:
         with self.open_DB():
             update_query = "UPDATE "+ table_name + " SET " + column_name + " = ? WHERE " + key_name + " = ?"
             self.cur.execute(update_query, (updated_value,primary_key))
-            self.conn.commit()            
+            self.conn.commit()
+            #info log here for to check if correct information was committed.            
     
     '''insert new entry into database'''
     def insert_player_default(self, table_name, primary_key):
@@ -53,8 +64,9 @@ class SQLite:
                 insert_query = "INSERT INTO "+ table_name + " VALUES (?,?,?,?,?)"
                 self.cur.execute(insert_query,(primary_key,self.default_wins, self.default_losses, self.default_ranking, self.default_tourney_placings))
                 self.conn.commit()
+                #info log here for to check if correct information was committed.
             else:
-                #log that it was not inserted and exists already
+                #info log that it was not inserted and exists already
                 pass
     
     '''solely for db to model, can't have list in sqlite'''            
