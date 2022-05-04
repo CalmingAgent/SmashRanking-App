@@ -14,7 +14,7 @@ class SQLite:
     #no need to have variable for this because Warning is the default value of logger
     
     #Due to a more serious problem, the software has not been able to perform some function.
-    log_error_testing= False
+    error= False
     #A serious error, indicating that the program itself may be unable to continue running.
     critical_error_testing = False
 
