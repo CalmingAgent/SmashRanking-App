@@ -1,0 +1,1512 @@
+tournament name: Pixel Perfect #1 (Smash Ultimate Monthly)
+tournament name: 篝火(かがりび)
+tournament name: Pissmas 2
+tournament name: [POSTPONED] Terre Nova 3: Collin All Challengers
+tournament name: AOT Monthly 11
+tournament name: 【1/10開催】篝火#1.5
+tournament name: Super Sunshine Smash
+tournament name: SeaSideSmash #14
+tournament name: Xi Gai Tong Shi 2021 Jan
+tournament name: Biggie III
+tournament name: AOT Monthly 12
+tournament name: Flip the 'Swich 1
+tournament name: Copa Geek Frikiverso - Smash SV
+tournament name: Cheese League Feb 2021 Smash Ultimate
+tournament name: Star Forge #112
+tournament name: Xi Gai Tong 2021 Feb 27
+tournament name: LAN King Weekly 3/2/21
+tournament name: Flip the 'Swich 2
+tournament name: Super Sunshine Smash 2
+tournament name: LAN King 3/9/2021
+tournament name: Star Forge #113
+tournament name: Cheese League March 2021 Smash Ultimate
+tournament name: LAN King Weekly 3/16/21
+tournament name: 4o4 Ultimate Weekly XLIX
+tournament name: Smash Revolution Sessions 01
+tournament name: Star Forge #114
+tournament name: [CouchWarriors QLD] Ranking Battles March 2021
+tournament name: 篝火#3 / Kagaribi#3
+tournament name: CouchWarriors VIC March Ranking Battle (2021) - Smash
+tournament name: 逐鹭杯
+tournament name: Xi Gai Tong 2021 Mar 27
+tournament name: ESS SMASHDOWN
+tournament name: LAN King Weekly 3/30/21
+tournament name: 4o4 Ultimate Weekly LI
+tournament name: BOWU x SSBE #29
+tournament name: EBS x Zen Gaming # 69
+tournament name: LAN King Smash Weekly 4/6
+tournament name: 4o4 Smash Night
+tournament name: Last Game Last Stock (LGLS) - Smash Bros Ultimate Tournament
+tournament name: BOWU x SSBE #30
+tournament name: Super Sunshine Smash 3
+tournament name: ESS SMASHDOWN 4/11
+tournament name: EBS X ZEN Gaming #70
+tournament name: LAN King Weekly 4/13
+tournament name: 4o4 Smash Night
+tournament name: Xi Gai Tong Shi 2021 April
+tournament name: Battle Kat Comeback
+tournament name: Content Events at Esports Stadium Temecula #1
+tournament name: HyperX Esports Arena - 2021 Weekly LAN Tournaments #17
+tournament name: LAN King Weekly 4/20
+tournament name: Arena Valhalla Torneo Amateur #1
+tournament name: 4o4 Smash Night
+tournament name: [CouchWarriors QLD] Ranking Battles April 2021
+tournament name: LEVELUP Arena Premier Tournament ($500 pot)
+tournament name: South Australia Arcadian
+tournament name: CouchWarriors VIC April Ranking Battle (2021) - Smash
+tournament name: Corinth Clash 2 $750 Guaranteed Prize Pool
+tournament name: Town of Gilbert Esports Presents: Super Smash Bros. Ultimate
+tournament name: BOWU x SSBE #31
+tournament name: Content Events at Esports Stadium Temecula #2
+tournament name: LAN King Weekly 4/27
+tournament name: 4o4 Smash Night
+tournament name: CN:B-Airs #273
+tournament name: Flip the 'Swich 3
+tournament name: XTR Ultimate League 2021 -01
+tournament name: BOWU x SSBE #32
+tournament name: Super Sunshine Smash 4
+tournament name: Content Events at Esports Stadium Temecula #3
+tournament name: LAN King Weekly 5/4
+tournament name: 4o4 Smash Night
+tournament name: Pafa's Playground
+tournament name: CN:B-Airs #274
+tournament name: LEVELUP Weekly Series #1 (64 entry cap) ($350 pot)
+tournament name: GridLock
+tournament name: BOWU x SSBE #33
+tournament name: Content Events at Esports Stadium Temecula #4
+tournament name: DBG Smash Night #9
+tournament name: LAN King Weekly 5/11
+tournament name: 4o4 Smash Night
+tournament name: FreaksRichardson4
+tournament name: CN:B-Airs #275
+tournament name: AON Ultimate Prelude #2
+tournament name: LEVELUP Weekly #2 ($500 pot) (64 entrant cap) powered by Mtn Dew
+tournament name: XTR Ultimate League 2021 - 02
+tournament name: BOWU x SSBE #34
+tournament name: Smash’n’Poké
+tournament name: Content Events at Esports Stadium Temecula #5
+tournament name: Smash Parmesan #45 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: LAN King Smash Weekly 5/18
+tournament name: LAN King Smash Weekly 5/18
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #75
+tournament name: Turbo Smash Thursday #2
+tournament name: FreaksRichardson5
+tournament name: CN:B-Airs #276
+tournament name: AON Ultimate Prelude #3
+tournament name: Houston Tech Rodeo FGC Showcase
+tournament name: LEVELUP Weekly #3 ($500 pot) (64 entrant cap) powered by Mtn Dew
+tournament name: Super Smash Tournament at The eSports Cave 05/21
+tournament name: CouchWarriors VIC May Ranking Battle (2021) - Smash [CWLeague]
+tournament name: EGVS Weekly #6
+tournament name: Ultimate Crews-in for a Bruisin' 4
+tournament name: Baecation #66 - a Smash Ultimate offline weekly
+tournament name: 4o4 Smash Monthly
+tournament name: OAKSMASH SATURDAY 6 @ LFG
+tournament name: Road to Gamescom
+tournament name: CenCal Civil War
+tournament name: Content Events at Esports Stadium Temecula #6
+tournament name: HyperX Esports Arena - 2021 Weekly LAN Tournaments #22
+tournament name: Smash Parmesan #46 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: DBG Smash Night #11
+tournament name: LAN King Weekly 5/25
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #76
+tournament name: Turbo Smash Thursday #3
+tournament name: Content Events at ULT Esports Orange County #1
+tournament name: FreaksRichardson6
+tournament name: CN:B-Airs #277
+tournament name: AON Ultimate Prelude #4
+tournament name: [CouchWarriors QLD] Ranking Battles May 2021
+tournament name: LEVELUP: Code Red 1 ($500 pot) (64 entrant cap weekly) powered by Mtn Dew
+tournament name: Super Smash Stadium Édition Battlefield
+tournament name: Queen City Showdown X
+tournament name: The 14th Year of our Boy, SHADIC
+tournament name: BAEcation #67 - A Smash Ultimate Weekly
+tournament name: Tech Time Smash Saturdays 5/29/21
+tournament name: Kongo's Battlegrounds Tournament 05/29/2021
+tournament name: Murdoch University Monthly powered by Knockout Series - May
+tournament name: Super Smash Stadium Édition Peach Castle
+tournament name: Content Events at Esports Stadium Temecula #7
+tournament name: Magic City ePLEX LAN Tournaments - June
+tournament name: DBG Smash Night #12
+tournament name: Smash Parmesan #47 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Smash @ Bon Aire
+tournament name: LAN King Weekly 6/1
+tournament name: Lone Tree Wednesday #2
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #77 NO CAP
+tournament name: VGC Super Smash Bros Ultimate Tournament 6/3/21
+tournament name: Turbo Smash Thursday #4
+tournament name: Advantage State #1
+tournament name: Content Events at ULT Esports Orange County #2
+tournament name: FreaksRichardson7
+tournament name: LEVELUP: Code Red 2 (64 entrant cap) powered by Mtn Dew
+tournament name: CN:B-Airs #278
+tournament name: Maji Game Night #57
+tournament name: Weekly by Vegacy
+tournament name: AON Ultimate #67
+tournament name: EGVS Weekly #7
+tournament name: Dose Of Smash
+tournament name: Waterville Smash Attack: The New Beginning
+tournament name: InfinityCON Tally 2021
+tournament name: The Dungeon: A Yearly Regional Event for Charity!
+tournament name: Baecation #68 - a Smash Ultimate offline weekly
+tournament name: Tech Time Smash Saturdays 6/5/21
+tournament name: OAKSMASH SATURDAY 8 @ LFG
+tournament name: Backthrow 150: Return to Poplar
+tournament name: Stage Spike'd 22! - Smash Ultimate Monthly at 1Life2Play
+tournament name: Smash It up
+tournament name: Super Sabotage at Central Smash! ($50 Pot Bonus!)
+tournament name: Content Events at Esports Stadium Temecula #8
+tournament name: Fusion OFFLINE #75 -- We're back!
+tournament name: Smash Parmesan #48 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: DBG Smash Night #13
+tournament name: Ultimate @ Xanadu 409
+tournament name: Smash  @ Bon Aire
+tournament name: LAN King Weekly 6/8/21
+tournament name: SmashEasy #7
+tournament name: Ultimate at The Cave #65
+tournament name: 4o4 Smash Night
+tournament name: Advantage State #2
+tournament name: Throwdown Thursday #78
+tournament name: Turbo Smash Thursday #5
+tournament name: (TDT) ThrowDown Thursday #3
+tournament name: FreaksRichardson8
+tournament name: CN:B-Airs #279
+tournament name: Maji Game Night #58
+tournament name: AON Ultimate #68
+tournament name: The Grind Fridays 141
+tournament name: Super Smash Tournament at The eSports Cave 06/11
+tournament name: LEVEL UP: Code Red 3 ($500 pot w/ 64 entrants) powered by Mtn Dew
+tournament name: Zénith #2
+tournament name: EGVS Weekly #8
+tournament name: Super Smash Stadium Édition Ligue Pokémon de Kalos
+tournament name: Ultimate Time Skip: A Rewind eSports Super Smash Bros. Ultimate Tournament
+tournament name: Dair2Care #17
+tournament name: Big Porch 2 (Bigger Porch)
+tournament name: Baecation #69 - A Smash Ultimate Weekly
+tournament name: Tech Time Smash Saturdays June 12, 2021
+tournament name: Super Smash Stadium Édition Stade Pokémon
+tournament name: Smash It Up
+tournament name: Xanadu's Sunday Ultimate Pop Up #1
+tournament name: Smash Singles Sundays at Game On (6/13)
+tournament name: (ESS) Elite Smashdown Sunday #9
+tournament name: Fusion OFFLINE #76
+tournament name: Improper Popoff Arena 3: 6/14
+tournament name: FreaksFtWorth8
+tournament name: DBG Smash Night 14
+tournament name: Ultimate @ Xanadu 410
+tournament name: Smash Parmesan #49 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Smash @ Bon Aire
+tournament name: LAN King Weekly 6/15
+tournament name: Ultimate at The Cave #66
+tournament name: 4o4 Smash Night
+tournament name: Encore Smash #98 - OFFLINE YERRRR
+tournament name: Backthrow Thursdays 151: Powered by Cryme
+tournament name: Throwdown Thursday #79
+tournament name: Turbo Smash Thursday #6
+tournament name: Bay State Beatdown Week 1
+tournament name: (TDT) ThrowDown Thursday #4
+tournament name: Advantage State #3
+tournament name: FreaksRichardson9
+tournament name: Sync or Swim #66
+tournament name: Friday Night Smash 265
+tournament name: CN:B-Airs #280
+tournament name: Maji Game Night #59
+tournament name: AON Ultimate #69
+tournament name: Glitch Arcadian #3
+tournament name: The Grind Fridays 142
+tournament name: Tripoint Smash 101
+tournament name: LEVEL UP: Code Red 4 ($500 pot) powered by Mtn Dew
+tournament name: EGVS Weekly #9
+tournament name: Hope 2021
+tournament name: AGN/STR Ultimatum 14
+tournament name: Peabnut's Fight for Charity!
+tournament name: XTR Ultimate League 2021 - 4
+tournament name: GamePort (Sponsored by Sci-Port, Contender Esports, and LSUS)
+tournament name: Show Your Pride
+tournament name: LAN King Monthly 6/19
+tournament name: LAN King Monthly 6/19
+tournament name: BOWU x SSBE #36
+tournament name: 4o4 Smash Monthly
+tournament name: Smash It Up
+tournament name: Fusion OFFLINE #77 -- New Cap, Start Time, and 100$ Pot Bonus!
+tournament name: Ultimate @ Xanadu 411
+tournament name: Smash Parmesan #50 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: DBG Smash Night #15
+tournament name: Smash @ Bon Aire
+tournament name: LAN King Weekly 6/22
+tournament name: XenoWeeklies: XeNOMOREwifi
+tournament name: Ultimate Shockwave 67 -THE RETURN-
+tournament name: Bay State Beatdown Week 2
+tournament name: NOMore Friendlies
+tournament name: Ultimate at The Cave #67
+tournament name: 4o4 Smash Night
+tournament name: Encore Smash #99
+tournament name: Backthrow Thursdays 152
+tournament name: Throwdown Thursday #80
+tournament name: Turbo Smash Thursday(Boodabash :D) #7
+tournament name: (TDT) ThrowDown Thursday #5
+tournament name: Advantage State #4
+tournament name: Perfect Storm Thursdays
+tournament name: LEVELUP: Code Red 5 ($500 pot) powered by Mtn Dew
+tournament name: FreaksRichardson10
+tournament name: Friday Night Smash 266
+tournament name: CN:B-Airs #281
+tournament name: Maji Game Night #60
+tournament name: AON Ultimate #70
+tournament name: The Grind Fridays 143
+tournament name: Tripoint Smash 102
+tournament name: 篝火 #4 / Kagaribi #4
+tournament name: DOSE2SEL 2021.06
+tournament name: TWELVE II - 2021
+tournament name: Bourbon State Gaming: Stop Your Friendlies
+tournament name: Ronin Rumble Cup (June 2021)
+tournament name: Smash Pro Circuit 2021 #7 - Champions
+tournament name: Hitpoint Summer: June
+tournament name: Gridlock 2
+tournament name: SanDStorm Saturdays #1
+tournament name: BOWU x SSBE #37
+tournament name: Super Smash Odyssey 37
+tournament name: Smash Alley 20
+tournament name: Battle of The Basque ($50 DOUBLES POT BONUS)
+tournament name: Back2Roots #1
+tournament name: Smash It Up
+tournament name: Smash @ The Piggery #18 - A Chicago Ultimate & Rivals Weekly
+tournament name: Fusion OFFLINE #78
+tournament name: Improper Popoff Arena 4: 6/28
+tournament name: FreaksFtWorth10
+tournament name: Game Underground Ultimate Weekly 6/29/21
+tournament name: PRISM 220
+tournament name: Smash Parmesan #51 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Ultimate @ Xanadu 412
+tournament name: DBG Smash Night #16
+tournament name: LAN King Ult Weekly 6/29
+tournament name: Vs Stadium - Smash Ultimate #4
+tournament name: Xeno205
+tournament name: Ultimate Shockwave 68
+tournament name: The Midweekly #3
+tournament name: Ultimate at The Cave #68
+tournament name: 4o4 Smash Night
+tournament name: Encore Smash #100 - WE MADE IT
+tournament name: Throwdown Thursday #81
+tournament name: THE OASIS #1
+tournament name: Backthrow Thursdays 153
+tournament name: (TDT) ThrowDown Thursday #6
+tournament name: JRGB Smash Night #3
+tournament name: Turbo Smash Thursday #8
+tournament name: Grand Revival #4
+tournament name: Bay State Beatdown Week 3
+tournament name: AL 60: Dragons Lair
+tournament name: Advantage State #5
+tournament name: FreaksRichardson12
+tournament name: Perfect Storm Thursdays #2
+tournament name: Paragon City Smash 7
+tournament name: FreeFall #100 ($300 Pot Bonus!)
+tournament name: CN:B-Airs #282
+tournament name: USF's Summer B Smash!
+tournament name: AON Ultimate #71
+tournament name: The Grind Fridays 144
+tournament name: Coca-Cola Breakpoint Ultimate 2021.7
+tournament name: The Oven | Smash Bros Ultimate (7/02/2021)
+tournament name: Tripoint Smash 103
+tournament name: PCG Smash Ultimate Weekly Return
+tournament name: LEVELUP: Code Red 6 ($500 pot) powered by Mtn Dew
+tournament name: The Cave Series #2
+tournament name: Critical Hit #3 - SALT
+tournament name: BrookLAN Smash 2021
+tournament name: BOWU x SSBE #38
+tournament name: SanDStorm Saturdays #2
+tournament name: Super Smash Odyssey 38
+tournament name: 【1on1部門】マエスマTOP#5/ MaesumaTOP#5
+tournament name: 10 Hit Combo!
+tournament name: Fusion OFFLINE #79
+tournament name: Mega Smash Mondays 233
+tournament name: FreaksFtWorth11
+tournament name: Game Underground Ultimate Weekly 07/06/21
+tournament name: Ultimate @ Xanadu 413
+tournament name: Smash Parmesan #52 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: DBG Smash Night #17
+tournament name: LAN King Weekly 7/6/21
+tournament name: LAN Hero Tuesday #59 @Quickly
+tournament name: Xeno206
+tournament name: Ultimate Shockwave 69
+tournament name: Ignition #225
+tournament name: Ultimate at The Cave #69
+tournament name: 4o4 Smash Night
+tournament name: Encore Smash #101 - Thunderstorm Edition!
+tournament name: SmashLAN'd #110
+tournament name: THE OASIS #2
+tournament name: Throwdown Thursday #82
+tournament name: Turbo Smash Thursday #9
+tournament name: JRGB Smash Night #4
+tournament name: AL 61: Dragons Lair
+tournament name: Bay State Beatdown Week 4
+tournament name: Advantage State #6
+tournament name: Otaku Zone Season 6 Week 1
+tournament name: FreaksRichardson13
+tournament name: Perfect Storm Thursdays #3
+tournament name: Smash Arena: The Comeback
+tournament name: CN:B-Airs #283
+tournament name: PCG Smash Ultimate Weekly July 9, 2021
+tournament name: AON Ultimate #72
+tournament name: The Grind Fridays 145
+tournament name: Vs Stadium - Smash Ultimate #5
+tournament name: Tripoint Smash 104
+tournament name: LEVELUP: Code Red LUA2 Edition (LUA2 prelocal) powered by Mtn Dew
+tournament name: The Cave Series #3
+tournament name: Super Sunshine Smash 5
+tournament name: Revival of Kin 172
+tournament name: High Stakes Smash
+tournament name: Super Smash Stadium Édition Football
+tournament name: :GG 2021
+tournament name: Waterville Smash Attack: Dolphin Fest
+tournament name: South East Game Exchange Smash - 7/10
+tournament name: LEVELUP Arena 2 ($1250 pot bonus)
+tournament name: Rig the Bracket #4 - Welcome Back
+tournament name: Abierto Puerto Vallarta
+tournament name: OAKSMASH SATURDAY 12 @ LFG
+tournament name: Promanco Grand Prix
+tournament name: Super Smash Odyssey 39
+tournament name: [OFFLINE] Typhoon Saga 2021
+tournament name: Smash the Cinema
+tournament name: Stage Spike'd 23! - Smash Ultimate Monthly at 1Life2Play
+tournament name: The Red District #1
+tournament name: SanDStorm Sundays #3
+tournament name: Phoenix Series #1
+tournament name: Fusion OFFLINE #80
+tournament name: Mega Smash Mondays 234
+tournament name: FreaksFtWorthTwelve
+tournament name: Game Underground Ultimate Weekly 07/13/21
+tournament name: Ultimate @ Xanadu 414
+tournament name: Smash Parmesan #53 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Kingdom 58
+tournament name: DBG Smash Night #18 - $300 Set Prize Pool
+tournament name: LAN King Weekly 7/13/21
+tournament name: xeno207
+tournament name: Ignition 226
+tournament name: Ultimate Shockwave 70
+tournament name: The Midweekly #5
+tournament name: Smash @ Respawn #67
+tournament name: Ultimate @ The Cave #70
+tournament name: 4o4 Smash Night
+tournament name: Le Hub #1
+tournament name: Encore Smash #102 - Monthly Warm-up Edition!
+tournament name: SmashLAN'd #111 | Hosted by Game Arena
+tournament name: THE OASIS #3
+tournament name: Throwdown Thursday #83
+tournament name: Super Smash Thursdays: Relaunch #65
+tournament name: Backthrow Thursdays 155 feat. ven
+tournament name: Turbo Smash Thursday #10
+tournament name: Tech Chase @ Midlane #5
+tournament name: AL 62: Dragons Lair
+tournament name: Bay State Beatdown Week 5
+tournament name: JRGB Smash Night #5
+tournament name: Advantage State #7
+tournament name: Otaku Zone Season 6 Week 2
+tournament name: Paragon City Smash 9
+tournament name: Perfect Storm Thursdays #4
+tournament name: FreaksRichardson14
+tournament name: Glitch Smash Ultimate Tournament
+tournament name: CN:B-Airs #284
+tournament name: Maji Game Night #62
+tournament name: AON Ultimate #73
+tournament name: The Grind Fridays 146
+tournament name: LEVELUP: Code Red 8 ($500 pot) powered by Mtn Dew
+tournament name: Tripoint Smash 105
+tournament name: Vs Stadium - Smash Ultimate #6
+tournament name: The Cave Series #4
+tournament name: Revival of Kin 173
+tournament name: EGVS Deluxe #1
+tournament name: DOSE2SEL 2021.07
+tournament name: Zénith #3
+tournament name: BYOC #2 (Bring Your Own Controller) - The Comeback
+tournament name: AGN/STR Ultimatum 15
+tournament name: XTR Ultimate League 2021 - 5
+tournament name: Hitpoint Summer: July ($1000 Pot Bonus)
+tournament name: Smash at Park University
+tournament name: Odyssey
+tournament name: Boise Smash: Battleground
+tournament name: Big Porch 3
+tournament name: Esports Arena Atlanta Grand Opening
+tournament name: Gulf Coast Throwdown #1
+tournament name: Teasports July 18th 2021
+tournament name: Encore Smash Monthly #14
+tournament name: Esports Arena Salt Lake City Grand Opening
+tournament name: 4o4 Smash Monthly
+tournament name: BOWU x SSBE #38
+tournament name: EGVS Deluxe #2
+tournament name: BrookLAN Brawls #1: A Smash Ultimate Weekly Series
+tournament name: SanDStorm Sundays #4
+tournament name: Fusion OFFLINE #81 -- The Return of Melee!
+tournament name: Kongo's Smashy Home Evening Weekly (7/19/2021)
+tournament name: Mega Smash Mondays 235
+tournament name: FreaksFtWorthThirteen
+tournament name: Game Underground Ultimate Weekly 07/20/21
+tournament name: CFG Tuesday Trial: Hosted by Game Arena
+tournament name: Ultimate @ Xanadu 415
+tournament name: Smash Parmesan #54 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: TNS Season 3 Episode 1[$100 Pot Bonus]
+tournament name: DBG Smash Night #19 - $250 Set Prize
+tournament name: Training Tuesday #27
+tournament name: LAN King Weekly 7/20/21
+tournament name: LAN Hero Tuesday #61 @Quickly
+tournament name: Xeno208
+tournament name: Ignition #227
+tournament name: Ultimate Shockwave 71
+tournament name: BNB PlayLive Wednesday
+tournament name: The Midweekly #6
+tournament name: Ultimate at The Cave #71
+tournament name: Le Hub #2
+tournament name: 4o4 Smash Night
+tournament name: Encore Smash #103 - CrossUP Warm-up Edition!
+tournament name: THE OASIS #4
+tournament name: Throwdown Thursday #84
+tournament name: SmashLAN'd #112 | Hosted by Game Arena
+tournament name: Turbo Smash Thursday #11
+tournament name: Bay State Beatdown Week 6
+tournament name: AL 63: Wood's Sendoff
+tournament name: JRGB Smash Night #6
+tournament name: Advantage State #8
+tournament name: Paragon City Smash 10
+tournament name: Perfect Storm Thursdays #5
+tournament name: FreaksRichardson15
+tournament name: Smash Arena: The Comeback #2
+tournament name: Metrocade tournies 2021
+tournament name: Gainesville Stock Exchange: Revival
+tournament name: MechaCon Omega
+tournament name: CN:B-Airs #285
+tournament name: AON Ultimate #74
+tournament name: The Grind Fridays 147
+tournament name: LEVELUP: Code Red 9 ($500 pot) powered by Mtn Dew
+tournament name: Tripoint Smash 106
+tournament name: The Cave Series #5
+tournament name: Revival of Kin 174
+tournament name: TWELVE I - 2021
+tournament name: Ecolution - ($500 Pot Bonus)
+tournament name: Texoma eSports Presents: No Man's Land $400 Pot Bonus (Smash Singles)
+tournament name: Push the Limit 12
+tournament name: Smashkatoon 51: Shippuden
+tournament name: Shield Break Mario
+tournament name: TAS Tournament
+tournament name: Jim City BABY DON'T MISS IT.
+tournament name: LAN King July Monthly
+tournament name: LAN King July Monthly
+tournament name: BOWU x SSBE #39
+tournament name: CROSSxUP ($500 Pot Bonus) - an offline Smash Regional event
+tournament name: Battle of The Basque 2 ($100 Pot Bonus)
+tournament name: BrookLAN Brawls #2: A Smash Ultimate Weekly Series
+tournament name: SanDStorm Sundays #5
+tournament name: Smash Sundays at Game On 7/25
+tournament name: Fusion OFFLINE #82
+tournament name: Mega Smash Mondays 236
+tournament name: FreaksFtWorth14
+tournament name: Game Underground Ultimate Weekly 07/27/21
+tournament name: Smash Parmesan #55 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Ultimate @ Xanadu 416
+tournament name: DBG Smash Night #20
+tournament name: LAN King Weekly 7/27/21
+tournament name: LAN Hero Tuesday #62 @Quickly
+tournament name: Xeno209
+tournament name: DI Downriver #15
+tournament name: Ignition #228
+tournament name: Super Ultimate Shockwave 72
+tournament name: CS PlayLive Weds
+tournament name: Ultimate at The Cave #72
+tournament name: 4o4 Smash Night
+tournament name: JRGB Smash Night #7
+tournament name: Throwdown Thursday # 85
+tournament name: Le Hub #3
+tournament name: Super Smash Thursdays: Relaunch #67
+tournament name: Turbo Smash Thursday #12
+tournament name: SmashLAN'd #113 | Hosted by Game Arena
+tournament name: AL 64: Dragons Lair
+tournament name: THE OASIS #5
+tournament name: Bay State Beatdown Week 7
+tournament name: Advantage State #9
+tournament name: Encore Smash #104
+tournament name: Paragon City Smash 11
+tournament name: Perfect Storm Thursdays #6
+tournament name: FreaksRichardson16
+tournament name: Hanamicon 2021
+tournament name: CN:B-Airs #286
+tournament name: Gainesville Stock Exchange 119
+tournament name: The Grind Fridays 148
+tournament name: AON Ultimate #75
+tournament name: LEVELUP: Code Red 10 ($500 pot) powered by Mtn Dew
+tournament name: House of Hurt #1 (Ouch, That Really Hurts!)
+tournament name: Tripoint Smash 107
+tournament name: [Couchwarriors QLD] Ranking Battles - July 2021
+tournament name: The Cave Series #6
+tournament name: Revival of Kin 175
+tournament name: Cherry's: Glasmine 001
+tournament name: The Comeback - Feat. Tweek
+tournament name: Summer Smash
+tournament name: GGs, Not Too Close Tho: Barley vs Canola
+tournament name: Battle of Z : Toronto Strikes Backs
+tournament name: XTR Ultimate League 2021 - 6
+tournament name: Tri-Town Throwdown 4: Welcome back, CWA
+tournament name: Canakrn's Monthly #1
+tournament name: Xenosaga XXXIV
+tournament name: ABU 54: Hellfire
+tournament name: The H Invitiational
+tournament name: OAKSMASH SATURDAY 15 @ LFG
+tournament name: BOWU x SSBE #40
+tournament name: PEGASO V
+tournament name: LAB: Rebirth
+tournament name: Buffalo Smash: Return of the 716  *$100 Pot Bonus*
+tournament name: Esports Arena Orlando Grand Opening
+tournament name: Smash It Up
+tournament name: Smash Sundays at Game On 8/1
+tournament name: Fusion OFFLINE #83
+tournament name: Mega Smash Mondays 237
+tournament name: FreaksFtWorth15
+tournament name: Game Underground Ultimate Weekly 08/03/21
+tournament name: Ultimate @ Xanadu 417
+tournament name: Smash Parmesan #56 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: DBG Smash Night #21
+tournament name: Training Tuesday #29
+tournament name: LAN King Weekly 8/3
+tournament name: Xeno210
+tournament name: Ignition #229
+tournament name: Phazer Kraze 7
+tournament name: Ultimate Shockwave 73
+tournament name: Perfect Storm Thursdays #7
+tournament name: Nerdtorch Cafe: Challenge Day $100-150 Pot Bonus
+tournament name: Ultimate at The Cave #73
+tournament name: Le Hub #4
+tournament name: 4o4 Smash Night
+tournament name: SmashLAN'd #114 | Hosted by Game Arena
+tournament name: Throwdown Thursday #86
+tournament name: JRGB Smash Night #8
+tournament name: Encore Smash #105
+tournament name: Turbo Smash Thursday #13
+tournament name: Bay State Beatdown Week 8
+tournament name: AL 65: Dragons Lair
+tournament name: THE OASIS #6
+tournament name: Stock Confirm 1
+tournament name: Advantage State #10
+tournament name: FreaksRichardson17
+tournament name: Paragon City Smash 12
+tournament name: USF Summer SmashDown
+tournament name: CN:B-Airs #287
+tournament name: LEVELUP: Code Red 11 ($500 pot) powered by Mtn Dew
+tournament name: The Grind Fridays 149
+tournament name: AON Ultimate #76
+tournament name: Tripoint Smash 108 Ft. PPA vs Yacht Club Crew Battle!
+tournament name: Anime Houston 2021
+tournament name: The Cave Series #7
+tournament name: Revival of Kin 176
+tournament name: Coca-Cola Breakpoint Ultimate 2021.8
+tournament name: Hællæwood Smash
+tournament name: Stick Drift
+tournament name: Reach New Heights
+tournament name: Keep it REAL
+tournament name: PSA 2021
+tournament name: OAKSMASH SATURDAY 16 @ LFG
+tournament name: BOWU x SSBE #41
+tournament name: Smash: Reach
+tournament name: BrookLAN Brawls #3: A Smash Ultimate Weekly Series
+tournament name: Make That Chedda Test Tournament
+tournament name: Mega Smash Mondays 238
+tournament name: FreaksFtWorth16
+tournament name: Smash Parmesan #57 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Ultimate @ Xanadu 418
+tournament name: Game Underground Ultimate Weekly 08/10/21
+tournament name: LAN King Weekly 8/10
+tournament name: LAN Hero Tuesday #64 @Quickly
+tournament name: Xeno211
+tournament name: Ignition #230
+tournament name: Ultimate Shockwave 74
+tournament name: Smashed to Pieces
+tournament name: ULTIMATE WANTED # 3
+tournament name: Ultimate at The Cave #74
+tournament name: Le Hub #5
+tournament name: Encore Smash #106
+tournament name: 4o4 Smash Night
+tournament name: THE OASIS #7
+tournament name: JRGB Smash Night #9
+tournament name: Turbo Smash Thursday #14
+tournament name: Grand Revival #10, WAIVED VENUE FEE! $100 POT BONUS!
+tournament name: Bay State Beatdown Week 9
+tournament name: AL 66: Dragons Lair
+tournament name: SmashLAN'd #115 | Hosted by Game Arena
+tournament name: Advantage State #11
+tournament name: Paragon City Smash 13
+tournament name: Perfect Storm Thursdays #8
+tournament name: FreaksRichardson18
+tournament name: LEVELUP: Code Red 12 ($500 pot) powered by Mtn Dew
+tournament name: CN:B-Airs #288
+tournament name: Maji Game Night #66
+tournament name: The Grind Fridays 150
+tournament name: Failsafe #5
+tournament name: Tripoint Smash 109
+tournament name: The Cave Series #8
+tournament name: Revival of Kin 177
+tournament name: Invasion 2021
+tournament name: AM! Smash 2021
+tournament name: Reentry
+tournament name: Rig the Bracket - Challenging Maryland
+tournament name: XTR Ultimate League 2021 - 7
+tournament name: Alpha 4
+tournament name: OHKO Smash Festival
+tournament name: South Suburban Esports Smash #42
+tournament name: Central Colosseum Round 2
+tournament name: Gameshotz Monthly #1
+tournament name: Breakout - Post-Invasion Tournament
+tournament name: Boodabash Monthly at Contender eSports (FEAT DOUBLES)
+tournament name: BrookLAN Brawls #4: A Smash Ultimate Weekly Series
+tournament name: Smash Sundays at Game On 8/15
+tournament name: Make That Chedda #1
+tournament name: Fusion OFFLINE #84
+tournament name: Mega Smash Mondays 239
+tournament name: CFG Tuesday Trials 2: Electric Boogaloo
+tournament name: Ultimate @ Xanadu 419
+tournament name: Smash Parmesan #58 - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Game Underground Ultimate Weekly 08/17/21
+tournament name: LAN King Weekly 8/17
+tournament name: Platinum Star Weekly - Season 11: Week 6
+tournament name: Ignition #231
+tournament name: Xeno212
+tournament name: Ultimate Shockwave 75
+tournament name: Ultimate at The Cave #75
+tournament name: Le Hub #6
+tournament name: Encore Smash #107
+tournament name: 4o4 Smash Night
+tournament name: SmashLAN'd #116 | Hosted by Game Arena
+tournament name: THE OASIS #8
+tournament name: Throwdown Thursday #88
+tournament name: Turbo Smash Thursday #15
+tournament name: Bay State Beatdown Week 10
+tournament name: AL 67: Dragons Lair
+tournament name: Advantage State #12
+tournament name: FreaksRichardson19
+tournament name: Perfect Storm Thursdays #9
+tournament name: Paragon City Smash 14
+tournament name: Queen City Anime Convention 2021 - Game Room tournamnets
+tournament name: CN:B-Airs #289
+tournament name: AON Ultimate #78
+tournament name: The Grind Fridays 151
+tournament name: Tripoint Smash 110
+tournament name: Champions of Vancouver
+tournament name: Revival of Kin 178
+tournament name: The Velvet Room 1
+tournament name: DOSE2SEL 2021.08
+tournament name: Orcus Smash #5
+tournament name: DATEV Ultimate Series - Prelude #5
+tournament name: Stone Ocean Nationals 2021
+tournament name: Honeypot x Alternating Currents at The Current
+tournament name: Push the Limit 13
+tournament name: AGN/STR Ultimatum 16
+tournament name: The South Bend Smash Up - 2
+tournament name: Hitpoint Summer: August ($1000 Pot Bonus)
+tournament name: Xenosaga XXXV
+tournament name: Spiral Mountain
+tournament name: Gridlock 3 (300$ Pot Bonus)
+tournament name: Bear Your L's
+tournament name: 4o4 Smash Monthly
+tournament name: GYAH - Get Your Ass Here
+tournament name: Lab #111
+tournament name: KONDE'S Birfday Thing!
+tournament name: B2R Full Bloom #1 ($1,750 Prize Pool Bonus)
+tournament name: Make That Chedda #2
+tournament name: Fusion OFFLINE #85
+tournament name: Mega Smash Mondays 240
+tournament name: CFG Tuesday Trials 3: The Return
+tournament name: Ultimate @ Xanadu 420
+tournament name: Game Underground Ultimate Weekly 08/24/21
+tournament name: Smash Club @ Virginia Tech: Welcome Back!
+tournament name: LAN King Weekly 8/24
+tournament name: LH Tuesday @Quickly #66
+tournament name: Platinum Star Weekly - Season 11: Week 7
+tournament name: Xeno213
+tournament name: Ignition #232
+tournament name: Super Ultimate Shockwave 76
+tournament name: Smash @ Respawn #72
+tournament name: Ultimate at The Cave #76
+tournament name: Le Hub #7
+tournament name: 4o4 Smash Night
+tournament name: SmashLAN'd #117 | Hosted by Game Arena
+tournament name: JRGB Smash Night #11
+tournament name: Throwdown Thursday #89
+tournament name: Traverse City Smackdown
+tournament name: Bay State Beatdown Week 11
+tournament name: Stock Confirm 4
+tournament name: AL 68: Dragons Lair
+tournament name: Advantage State #13
+tournament name: Paragon City Smash 15
+tournament name: FreaksRichardson20
+tournament name: CN:B-Airs #290
+tournament name: The Grind Fridays 152
+tournament name: Failsafe #7
+tournament name: Smash @ State 30: Fall 2021 Kickoff
+tournament name: Howdy Week 2021 @MSC 2401
+tournament name: Back in Blood: Cheese Fumunda
+tournament name: The Cave Series #9
+tournament name: Revival of Kin 179
+tournament name: TGM Brawl #1 (Powered by ITs+)
+tournament name: MST 3
+tournament name: VirtuaSmash #14
+tournament name: (CANCELLED) Saint Smash #7
+tournament name: S@PS: Back From The Grave
+tournament name: B-town Beatdown 66
+tournament name: Zinc Tank #5 - $450 Pot Bonus
+tournament name: Smashkatoon 52: Double Trouble
+tournament name: Back in Blood
+tournament name: Freaks Outer Heaven
+tournament name: Shield Break Donkey Kong Presented by Beaconsgg
+tournament name: Mash At Johnny b's monthly
+tournament name: LAN King Bi-monthly Arcadian 8/28
+tournament name: LAN King Bi-monthly Arcadian 8/28
+tournament name: OSU Ultimate Biweekly 8/28/21
+tournament name: Central Colosseum Round 3
+tournament name: Lab #112
+tournament name: Smash Knights Fall 2021 #1
+tournament name: BrookLAN Brawls #5: A Smash Ultimate Weekly Series
+tournament name: The Smashening [Singles] 8-29-2021
+tournament name: Fusion OFFLINE #86
+tournament name: TooSmooth ThrowDown #4
+tournament name: Mega Smash Mondays 241
+tournament name: Temple : Hermès Edition
+tournament name: CFG Tuesday Trials 4: A New Beginning
+tournament name: Ultimate @ Xanadu 421
+tournament name: Game Underground Ultimate Weekly 08/31/21
+tournament name: We Tech Those 49
+tournament name: LAN King Weekly 8/31/2021
+tournament name: LAN Hero Tuesday #67 @Quickly
+tournament name: Ignition #233
+tournament name: SLU Smash Post COVID Weekly #6
+tournament name: Smashed to Pieces #2
+tournament name: Ultimate at The Cave #77
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #129
+tournament name: SmashLAN'd #118 | Hosted by Game Arena
+tournament name: JRGB Smash Night #12
+tournament name: THE OASIS #10
+tournament name: Throwdown Thursday #90
+tournament name: COMET CON 2021
+tournament name: Bay State Beatdown Week 12
+tournament name: AL 69: Nice
+tournament name: Advantage State #14
+tournament name: Moonlight Tournament Series #6
+tournament name: Paragon City Smash 16
+tournament name: FreaksRichardson21
+tournament name: Perfect Storm Thursdays #10
+tournament name: DragonCon 2021 Gaming Tournaments
+tournament name: CN:B-Airs #291
+tournament name: The Grind Fridays 153
+tournament name: Aon Ultimate #80
+tournament name: No Caps 19 @ Rudder 601
+tournament name: Ultimate Sooner Smash Dojo #66
+tournament name: Tripoint Smash 112
+tournament name: TUB 9/3 (Tuscaloosa Ultimate's Back!)
+tournament name: The Prowling Grounds 52
+tournament name: Flip the 'Swich 5
+tournament name: Elite Smash Friday #55
+tournament name: Revival of Kin 180
+tournament name: FAN EXPO Boston 2021 - Game Underground Tournaments
+tournament name: Coca-Cola Breakpoint Ultimate 2021.9
+tournament name: The 2021 South Carolina Arcadian
+tournament name: Winakwa Wumble #1 (Manitoba Local)
+tournament name: Back To Smash ($250 Singles Pot Bonus)
+tournament name: Heartbeat: Presented by Nexus Esports
+tournament name: Dair2Care #22
+tournament name: Game Arena Presents: YMCA Clash
+tournament name: The Asheville Summit
+tournament name: Canakrn Monthly #2
+tournament name: Le Big Hub ($1000 POT BONUS)
+tournament name: Spotlight: Iowa ($300 Ultimate Singles Bonus)
+tournament name: Tuscaloosa Tussle #1
+tournament name: Stage Spike'd 24! - Smash Ultimate Monthly at 1Life2Play
+tournament name: Mob Madness 16
+tournament name: Intel Gamer Days - Esports Arena Roseville
+tournament name: Don't Get Tilted #17 (Labor Day Weekend Amirite)
+tournament name: Fusion OFFLINE #87
+tournament name: Mega Smash Mondays 242
+tournament name: CFG Tuesday Trials 5: F***, I LOST!!!
+tournament name: Ultimate @ Xanadu 422
+tournament name: Game Underground Ultimate Weekly 09/07/21
+tournament name: We Tech Those 50
+tournament name: LAN King Weekly
+tournament name: UB Smash Club #1 (Offline)
+tournament name: Ignition #234
+tournament name: Hype Waves 40
+tournament name: Xeno215
+tournament name: Ultimate Shockwave: LTL Summer Finals w/ $1,000 Pot Bonus
+tournament name: Ultimate at The Cave #78
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday 130
+tournament name: JRGB Smash Night #13
+tournament name: Tidal Wave - Smash Tournament at 1Life2Play
+tournament name: SmashLAN'd #119 | Hosted by Game Arena
+tournament name: Bay State Beatdown Week 13
+tournament name: FreaksRichardson22
+tournament name: Perfect Storm Thursdays #11
+tournament name: Paragon City Smash 17
+tournament name: Smash @ State 31
+tournament name: Riptide
+tournament name: Eldorado Høstblot
+tournament name: CN:B-Airs #292
+tournament name: Bring More Setups: To The Cave! #2
+tournament name: AON Ultimate #81
+tournament name: URI Rhody Rumble 2021: WE'RE BACK?!
+tournament name: The Grind Fridays 154
+tournament name: Spartan Weeklies #68
+tournament name: No Caps 20 @ Rudder Tower 510
+tournament name: Ultimate Sooner Smash Dojo #67
+tournament name: Homie Stock #3
+tournament name: USC Biweekly #61: Welcome Back 2021!
+tournament name: Elite Smash Friday #56
+tournament name: Revival of Kin 181
+tournament name: Canal CL@SH | £642 | Powered by BeaconsGG and Cryme
+tournament name: Savannah September Slamma: $100 Pot Bonus
+tournament name: Smash Horizon - Comeback Arc *Powered by New Horizon Mall*
+tournament name: ULTIMATE CONTENDER #5 $100 POT BONUS
+tournament name: Central Colosseum Round 4
+tournament name: Smash Knights Fall 2021 #2
+tournament name: Smash Barber Fest #1
+tournament name: Comet Clash S7 #1
+tournament name: Vancouver Street Battle Re-Opening: Smash Sunday #1
+tournament name: Smashcade #37
+tournament name: Ultimate @ Xanadu 423
+tournament name: We Tech Those 51
+tournament name: LAN King Weekly 9/14
+tournament name: Liga Canaria - OpenCup SummerSeries 2021
+tournament name: UNT eSports & NTSC Present: Greenlight 1!
+tournament name: Xeno216
+tournament name: Ignition #235
+tournament name: Inaugural Smash Tournament @ Guildhouse
+tournament name: Le Hub #10
+tournament name: Ultimate at The Cave #79
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #131
+tournament name: JRGB Smash Night #14
+tournament name: Advantage State #16
+tournament name: FreaksRichardson23
+tournament name: Paragon City Smash 18
+tournament name: Bring More Setups #95
+tournament name: CN:B-Airs #293 - March of the Penguins
+tournament name: Mav Mayhem #71
+tournament name: LUA3 Pre Local: Code Red powered by Mtn Dew
+tournament name: AON Ultimate #82
+tournament name: The Grind Fridays 155
+tournament name: Ann Arbor Arena #47
+tournament name: Northeastern Ultimate Tournaments F'21 Week 1
+tournament name: Spartan Weeklies #68.9
+tournament name: No Caps 21 @ MSC Room 2406B
+tournament name: The Prowling Grounds 53
+tournament name: Orbitar 87
+tournament name: UBC Weekly: The Return
+tournament name: Revival of Kin 182
+tournament name: Fire Fox Fridays #47
+tournament name: SMASH WARS EPISODE II - CYVE‘S AWAKENING
+tournament name: Fair Game 13
+tournament name: Spartan Weeklies #69: The Monthly
+tournament name: CT Gamercon 4 Game Underground Tournaments
+tournament name: Homecoming: See Me Offline
+tournament name: Peabnut Saves the Cats!
+tournament name: The Juicy Time Skip! September 18, 2021!
+tournament name: LEVELUP Arena 3 ($2500 Pot Bonus)
+tournament name: DeSmash Smashfest #73: Warriors' Return
+tournament name: Glitch Smash Ultimate Monthly 3 Saturday Edition
+tournament name: 4o4 Smash Monthly
+tournament name: The Winner Techs it All! Revival #1 ft. 101 Gamers
+tournament name: Leeds Legends
+tournament name: Smash Knights Fall 2021 #3
+tournament name: The Playoffs
+tournament name: RVA Smash #1
+tournament name: SD Sundays #1 2021
+tournament name: Comet Clash S7 #2
+tournament name: Comet Clash S7 #2
+tournament name: Ultimate @ Xanadu 424
+tournament name: We Tech Those 52
+tournament name: LAN King Weekly 9/21
+tournament name: Hype Waves 41
+tournament name: Xeno217
+tournament name: Ignition #236
+tournament name: BNB PlayLive Wednesday
+tournament name: Smashed to Pieces #3
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #132
+tournament name: JRGB Smash Night #15
+tournament name: THE OASIS #12
+tournament name: Salt Water Smash 178
+tournament name: SmashLAN'd #121 | Hosted by Game Arena
+tournament name: Bay State Beatdown Week 14
+tournament name: The Weekly Wave - Toronto Smash Ultimate + Melee Weekly
+tournament name: AL 71: Dragons Lair (Rescheduled!)
+tournament name: Advantage State #17
+tournament name: FreaksRichardson24
+tournament name: Paragon City Smash 19
+tournament name: It’s Good to Be Back #1
+tournament name: Glitch 8.5 - Konami Code
+tournament name: Bring More Setups #96
+tournament name: CN:B-Airs #294
+tournament name: UConn Weekly Ultimate 35: Comeback
+tournament name: Ann Arbor Arena #48
+tournament name: Northeastern Ultimate Tournaments F'21 Week 2
+tournament name: The Grind 156 - Pre-Glitch Tournament!
+tournament name: Smash @ State 32
+tournament name: Spartan Weeklies #70
+tournament name: Tripoint Smash 113
+tournament name: MAC's Birthday Bash!
+tournament name: CWQLD Ranbat | September 2021
+tournament name: Homie Stock #5
+tournament name: Benobo Bi-Weekly #1: Please Reg for my tournament :)
+tournament name: USC Biweekly #62 Part 1: Ultimate
+tournament name: Elite Smash Friday #57
+tournament name: Revival of Kin 183
+tournament name: BIG LAB: Awakening
+tournament name: Guilty Smash Vol. 1
+tournament name: D.I.THOSE
+tournament name: Spa-Con Showdown 2021
+tournament name: Clemson Smash Series 27
+tournament name: Crouching Tigers 5
+tournament name: Keep It REAL: Corneria
+tournament name: FortCON 2021
+tournament name: Shield Break Link
+tournament name: Stock Trade #1
+tournament name: House of Hurt #2
+tournament name: Central Colosseum Round 5
+tournament name: Murdoch University Bi-Monthly powered by Knockout Series - September
+tournament name: 1.1.0 - Pre Patch SSBU Monthly: September Edition
+tournament name: Smash Knights Fall 2021 #4 ft. Squad Strike
+tournament name: No More Lag #1
+tournament name: Between 2 Lakes #32 - A Madison Super Smash Bros. Tournament
+tournament name: Smash Wars: The Beginning
+tournament name: Tabletop Smash #2
+tournament name: The Junkyard. The Central California Arcadian ($100+ Pot Bonus)
+tournament name: Smash Union: El Regreso
+tournament name: StarStorm Sundays #4
+tournament name: $100 POT BONUS - Sand Mountain Smash September
+tournament name: Comet Clash S7 #3
+tournament name: 11th Hour Smash #8: $50 Prize Pot FREE TO ENTER!!
+tournament name: CFG Tuesday Trials 6: The TO Force Awakens (For Real This Time)
+tournament name: We Tech Those 53
+tournament name: LAN King Weekly 9/28
+tournament name: LH Tuesday @Quickly #71
+tournament name: UNT Esports & NTSC Present: Greenlight 3
+tournament name: Next Level Cafe #5
+tournament name: Ignition #237
+tournament name: BNB PlayLive Wednesday
+tournament name: 4o4 Smash Night
+tournament name: Time Out Weeklies #50
+tournament name: Throwdown Thursday #133
+tournament name: JRGB Smash Night #16
+tournament name: The Weekly Wave #2 - Toronto Smash Ultimate + Melee Weekly
+tournament name: AL 72: Dragons Lair
+tournament name: SmashLAN'd #122 | Hosted by Game Arena
+tournament name: Advantage State #18
+tournament name: Paragon City Smash 20
+tournament name: Bring More Setups #97
+tournament name: CN:B-Airs #295
+tournament name: Ann Arbor Arena #49
+tournament name: The Prowling Grounds 54
+tournament name: Northeastern Ultimate Tournaments F'21 Week 3
+tournament name: Spartan Weeklies #71
+tournament name: Tripoint Smash 114
+tournament name: Orbitar 88
+tournament name: Revival of Kin 184
+tournament name: Fire Fox Fridays #49
+tournament name: Smash in Tuilière
+tournament name: Elemental Summit High Ground
+tournament name: $2,000 GDEX Underworld (2021)
+tournament name: MIRAGE - Ultimate REGIONAL @ Universal Nonstop + $350 POT BONUS
+tournament name: Battle of Z : Art of Izaw Edition
+tournament name: DeSmash Smashfest #74: Duel of the Fates
+tournament name: Mash Harder
+tournament name: Saturday School Showdown #1
+tournament name: San Diego Arcadian
+tournament name: NITE LITE ($140 Pot Bonus)
+tournament name: Manitoba’s Epic Bonely #3
+tournament name: Smash Knights Fall 2021 #5
+tournament name: Canakrn Monthly #3
+tournament name: LLG heaven's arena 2
+tournament name: We Tech Those 54
+tournament name: LAN King Weekly 10/5
+tournament name: UNT Esports & NTSC Present: Greenlight 4
+tournament name: Ignition #238
+tournament name: Smashed to Pieces #4
+tournament name: Ultimate at The Cave #82
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #134
+tournament name: JRGB Smash Night #17
+tournament name: Bay State Beatdown week 16
+tournament name: SmashLAN'd #123 | Hosted by Game Arena
+tournament name: Advantage State #19
+tournament name: FreaksRichardson26
+tournament name: Pinnacle 2021
+tournament name: LANmine 32: Neon
+tournament name: SMASHADELPHIA 2021 @ TooManyGames!
+tournament name: That Ain't Charlie #100
+tournament name: CN:B-Airs #296
+tournament name: Bring More Setups #98
+tournament name: The Grind Fridays 157
+tournament name: AON Ultimate #85
+tournament name: Ann Arbor Arena #50
+tournament name: Northeastern Ultimate Tournaments F'21 Week 4
+tournament name: Spartan Weeklies #72
+tournament name: No Caps 23 @ Rudder 301
+tournament name: Tripoint Smash 115
+tournament name: OG Collectibles SSBU Tournament #2
+tournament name: Revival of Kin 185
+tournament name: Fire Fox Fridays #50
+tournament name: Sixty Six Games - 2021
+tournament name: LSC Smash (mais pour de vrai cette fois) - Link Montpellier × Smash à Lez
+tournament name: Meinau Gaming
+tournament name: Vulcan
+tournament name: Critical Hit #4 - SALT
+tournament name: Coca-Cola Breakpoint Ultimate 2021.10
+tournament name: VirtuaSmash #15
+tournament name: Smash The Line: Third Impact
+tournament name: Home Sweet Home 2
+tournament name: Big Porch 4
+tournament name: DeSmash Smashfest #75: Simple and Green
+tournament name: Knockdown! Presents: Edgeguard
+tournament name: Central Colosseum Round 6
+tournament name: 西武撃 #8
+tournament name: Liverpool Smash III: The Return
+tournament name: Lagn't #1
+tournament name: BrookLAN Brawls X
+tournament name: Comet Clash S7 #4
+tournament name: 11th Hour Smash #10
+tournament name: Cornismash #93 - Ultimate Weekly Lyon
+tournament name: Ultimate @ Xanadu 426
+tournament name: We Tech Those 55
+tournament name: Smash @ Bon Aire
+tournament name: Smash @ Bon Aire
+tournament name: LAN King Weekly 10/12
+tournament name: Xeno219
+tournament name: Ignition #239
+tournament name: Ultimate Shockwave 81
+tournament name: BNB PlayLive Wednesday
+tournament name: Bay State Beatdown 17
+tournament name: 20.000 Johns sous l'Isère #17 : Bastos le prochain?
+tournament name: Ultimate at The Cave #83 - Pre-SSC Local
+tournament name: 4o4 Smash Night
+tournament name: The Weekly Wave #4 - Toronto Smash Ultimate + Melee Weekly
+tournament name: JRGB Smash Night #18
+tournament name: SmashLAN'd #124 | Hosted by Game Arena
+tournament name: Advantage State #20
+tournament name: Paragon City Smash 22
+tournament name: FreaksRichardson27
+tournament name: TrøndeLAN 2021
+tournament name: Super Smash Con: Fall Fest
+tournament name: Bring More Setups #99
+tournament name: The Grind Fridays 158
+tournament name: The Prowling Grounds 55
+tournament name: Spartan Weeklies #73
+tournament name: Northeastern Ultimate Tournaments F'21 Week 5
+tournament name: Ann Arbor Arena #51
+tournament name: Tripoint Smash 116
+tournament name: No Caps 24 @ Rudder Tower 301
+tournament name: Elite Smash Friday #59
+tournament name: UBC Weekly #4: BC Best Region Confirmed
+tournament name: Orbitar 89
+tournament name: Revival of Kin 186
+tournament name: Fire Fox Fridays #51
+tournament name: TGM eSports Unlimited
+tournament name: Crunch Cup Vol. 4 - The Return
+tournament name: Smash Class 23
+tournament name: Revenge of the 6ix: October Edition - Ontario Smash Ultimate / SSBM Series
+tournament name: Ultimate ARFI
+tournament name: Smash at EKU Presents: Battlegrounds I
+tournament name: DeSmash Smashfest #76: 2001: A Spacie Odyssey
+tournament name: Chinatown Showdown
+tournament name: The Showdown at the Big Fresno Fair 2021
+tournament name: Platinum Star Smash Season 12
+tournament name: 4o4 Smash Monthly
+tournament name: STAR K.O. - BEYOND THE BLAST ZONE - ROUND #1
+tournament name: No More Lag #2
+tournament name: Super Game Lab Smash
+tournament name: Comet Clash S7 #5
+tournament name: DAT Monday Meltdown 198
+tournament name: Ultimate @ Xanadu 427
+tournament name: Tuesday Trials 9: (Hopefully) Simple and Clean
+tournament name: Training Tuesday #41
+tournament name: We Tech Those 56
+tournament name: LAN King Weekly 10/19
+tournament name: 20.000 Johns sous l'Isère #18 : Sora is finally here !
+tournament name: Xeno220
+tournament name: Ignition #240
+tournament name: Ultimate Shockwave 82
+tournament name: CS x Playlive (Last DLC)
+tournament name: Le Hub #15
+tournament name: 4o4 Smash Night
+tournament name: Bay State Beatdown Week 18
+tournament name: JRGB Smash Night #19
+tournament name: SmashLAN'd #125 | Hosted by Game Arena
+tournament name: SJSU Student Union Presents Esports Event: Super Smash Bros. Ultimate Tournament
+tournament name: Advantage State #21
+tournament name: Smash Ultimate @ UCI #39: Reconnect
+tournament name: FreaksRichardson28
+tournament name: Paragon City Smash 23
+tournament name: The Cheese Platter - South Australian Mini Major
+tournament name: DATEV Ultimate Series - Conquest (Circuit Final)
+tournament name: Bring More Setups #100 (WOAH!!!!!!!!)
+tournament name: CN:B-Airs #298
+tournament name: The Grind Fridays 159
+tournament name: The Prowling Grounds 56
+tournament name: Northeastern Ultimate Tournaments F'21 Week 6
+tournament name: S@NS | Smash at Nerdscape #4
+tournament name: Ann Arbor Arena #52
+tournament name: Spartan Weeklies #74
+tournament name: AON Ultimate #87
+tournament name: Ultimate Sooner Smash Dojo #73
+tournament name: No Caps 25 @ Rudder Tower 301
+tournament name: Tripoint Smash 117
+tournament name: Yokaicon 2021
+tournament name: USC Biweeklies #63: Halloween Bastion
+tournament name: マエスマTOP#6/ MaesumaTOP#6【1on1】
+tournament name: Revival of Kin 187
+tournament name: Fire Fox Fridays #52
+tournament name: Zénith #5
+tournament name: Elemental Summit: Smash Ignis
+tournament name: Clemson Smash Series 28
+tournament name: The Gamble ($600 Pot Bonus!)
+tournament name: Hold The Line
+tournament name: Bearcat Clash 2
+tournament name: ContenderHV Seasonal #1
+tournament name: The Fish Tank
+tournament name: PAA 2021
+tournament name: Spotlight: Missouri ft. $300 Pot Bonus
+tournament name: Galactic Clash
+tournament name: Nerdtorch Cafe: Challenge Day 2 Two
+tournament name: Ascension: Welcome Home
+tournament name: Saturday Smashdiac 1
+tournament name: Localhost Denver - Super Smash Monthly #2
+tournament name: LAN King Bi-monthly Arcadian 10/23
+tournament name: Smash Box III
+tournament name: Central Colosseum Round 7
+tournament name: WTX x PBB | Slam Basket
+tournament name: 1.2.0 - Pre Patch SSBU Monthly: October Edition
+tournament name: Triangle Throwdown NC Arcadian
+tournament name: Smash Knights Fall 2021 #6
+tournament name: BrookLAN Brawls #11: A Smash Ultimate Weekly Series
+tournament name: $100 POT BONUS - Sand Mountain Smash - OCT
+tournament name: Comet Clash S7 #6
+tournament name: DAT Monday Meltdown 199
+tournament name: CFG Tuesday Trials 10: THE BATTLE FRONTIER
+tournament name: Ultimate @ Xanadu 428
+tournament name: LAN King Weekly 10/26
+tournament name: Xeno221
+tournament name: Ignition #241
+tournament name: Ultimate Shockwave 83
+tournament name: Guildhouse Smash Ultimate #7
+tournament name: Ultimate at The Cave #85
+tournament name: 4o4 Halloween Smash Night $100 Ave Pot Bonus
+tournament name: Le Hub #16
+tournament name: Throwdown Thursday #137
+tournament name: Super Smash Thursdays: Relaunch #80 (Ranked Week 5 - $100 Bonus Pot!)
+tournament name: Throwdown Thursday Halloween #3
+tournament name: The Weekly Wave #6 - Toronto Smash Ultimate + Melee Weekly
+tournament name: JRGB Smash Night #20
+tournament name: SmashLAN'd #126 | Hosted by Game Arena
+tournament name: Advantage State #22
+tournament name: Paragon City Smash 24
+tournament name: FreaksHalloween
+tournament name: Smash Ultimate @ UCI #40: Moonsiders
+tournament name: WANTED X ZEVENT (Evénement Caritatif)
+tournament name: Gametek Nights LADDER - Before Dose2SEL Halloween
+tournament name: Bring More Setups #101
+tournament name: The Grind Fridays 160
+tournament name: Ann Arbor Asylum $100 POT BONUS
+tournament name: No Caps 26 @ Rudder Tower 301
+tournament name: UPE Smash Tournament Fall 2021
+tournament name: CWQLD Ranbat | October 2021
+tournament name: Fire Fox Fridays #53 (Spooky)
+tournament name: 篝火#5 / Kagaribi#5
+tournament name: Elite Smash Friday #60
+tournament name: UBC Weekly #5: Pre-Port Sadness
+tournament name: Orbitar 90
+tournament name: Revival of Kin 188
+tournament name: XGT 2021 Oct 30th
+tournament name: Yunicon 2021
+tournament name: Elemental Summit High Ground II
+tournament name: DAT BlastZone 31
+tournament name: RCADIA SMASH
+tournament name: Munich Smash Academia Mini 2
+tournament name: Milano Smash District
+tournament name: Smash Club #1
+tournament name: Push the Limit 14
+tournament name: Kayla’s Spooky Smash Spectacular
+tournament name: SKL OPEN OTOÑO 2021
+tournament name: Port Priority 6
+tournament name: Shield Breaker!
+tournament name: Tech Chase 9 ($200 Pot Bonus!)
+tournament name: Smashkatoon 54: The Mash Swinging Smasher
+tournament name: DeSmash Smashfest #78: Nightmare on State Street
+tournament name: Crouching Tigers 6
+tournament name: FIGHTING GHOSTS ($250 Pot Bonus!)
+tournament name: AOMA Esports Unleashed
+tournament name: Coca-Cola Breakpoint Ultimate 2021.10.2
+tournament name: Smash at Apex 43 - Halloween Special ($350 POT BONUS)
+tournament name: SmashGt Reboot Series Pre-Season #1
+tournament name: Graveyard Smash ($1000 Pot Bonus)
+tournament name: DAT Monday Meltdown 200
+tournament name: Fusion OFFLINE #94
+tournament name: Ultimate @ Xanadu 429
+tournament name: LAN King Weekly 11/2
+tournament name: Xeno222
+tournament name: Ignition #242
+tournament name: BNB PlayLive Wednesday
+tournament name: Ultimate at The Cave #86
+tournament name: 4o4 Smash Night
+tournament name: Le Hub #17
+tournament name: JRGB Smash Night #21
+tournament name: SmashLAN'd #127 | Hosted by Game Arena
+tournament name: Advantage State #23
+tournament name: Smash Ultimate @ UCI #20: Just Like Old Times
+tournament name: FreaksRichardson29
+tournament name: Bonus Stage: The Return
+tournament name: Gainesville Stock Exchange 120
+tournament name: Gametek Nights 2021.10
+tournament name: CN:B-Airs #300 - on the 5th
+tournament name: The Rundown in Riverpark
+tournament name: Bring More Setups #102
+tournament name: Shieldbreakers: Smash Arena I
+tournament name: AON Ultimate #89
+tournament name: Ann Arbor Arena #53
+tournament name: The Grind Fridays 161
+tournament name: Let's Get It Rolling! @ Contender Esports
+tournament name: Northeastern Ultimate Tournaments F'21 Week 8
+tournament name: No Caps 27 @ Rudder Tower 601
+tournament name: Tripoint Smash 119
+tournament name: Ultimate Sooner Smash Dojo #75
+tournament name: Elite Smash Friday #61
+tournament name: USC Biweeklies #64: Offline + Expansion Pack
+tournament name: Game Lab Smash #17
+tournament name: Fire Fox Fridays #54
+tournament name: Knock Out 6
+tournament name: WaveSmash Ultimate 8
+tournament name: Marín Gaming Fest SSBU
+tournament name: Just Roll With It! 13
+tournament name: GoTE 4TheKids 25 Hour Event
+tournament name: Don't Kick Chairs 2: Revenge of the Chairs
+tournament name: Manitoba Bonely #4 (WW3)
+tournament name: The Zou 2 ($400 in Pot Bonuses)
+tournament name: Midwest Arcadian III
+tournament name: KATS Monthly November 2021
+tournament name: Canakrn Monthly #4
+tournament name: Saturday School Showdown #2
+tournament name: Novembair
+tournament name: Mash Harder 2
+tournament name: Plaza Friki Los Mochis PR #2
+tournament name: 西武撃 #9
+tournament name: JRWI Redemption
+tournament name: Smash Knights Fall 2021 #8
+tournament name: Gridlock Arcadian $370 in Pot Bonuses!
+tournament name: BrookLAN Brawls #13: Chilly Mountain x BrookLAN
+tournament name: Double Improper Popoff Arena: Popoff the Top
+tournament name: Tri-City Tumble 3
+tournament name: GEEKDOM 2021 - Super Smash Bros Ultimate
+tournament name: Ultimate @ Xanadu 430
+tournament name: SMASHNITE #11
+tournament name: Smash Ultimate @ UCI #41: Night of Fate
+tournament name: LAN King Weekly 11/9
+tournament name: Ignition #243
+tournament name: Xeno223
+tournament name: Ultimate Shockwave 85
+tournament name: Guildhouse Smash Ultimate #9
+tournament name: BNB PlayLive Wednesday
+tournament name: 20.000 Johns sous l'Isère #21 : No Neutral November
+tournament name: Ultimate at The Cave #87
+tournament name: Le Hub #18
+tournament name: 4o4 Smash Night
+tournament name: Throwdown Thursday #100 (( $100 Pot Bonus))
+tournament name: The Weekly Wave #8 - Toronto Smash Ultimate + Melee Weekly
+tournament name: Throwdown Thursday #100 (( $100 Pot Bonus))
+tournament name: The Weekly Wave #8 - Toronto Smash Ultimate + Melee Weekly
+tournament name: JRGB Smash Night #22
+tournament name: Turbo Smash Thursday #26
+tournament name: SmashLAN'd #128 | Hosted by Game Arena
+tournament name: Bay State Beatdown Week 20
+tournament name: Advantage State #24
+tournament name: FREAKSRICHARDSON30
+tournament name: Paragon City Smash 25
+tournament name: Game Lab Smash #18 - Road to Mainstage Thursday
+tournament name: Smash Legends Thursdays #5
+tournament name: Bonus Stage: Smash Ultimate
+tournament name: Mainstage 2021
+tournament name: CN:B-Airs #301
+tournament name: Bring More Setups #103
+tournament name: The Prowling Grounds 57
+tournament name: On Reaction
+tournament name: The Grind Fridays 162
+tournament name: Code Red 25 ($100 pot bonus) powered by LEVELUP
+tournament name: Northeastern Ultimate Tournaments F'21 Week 9
+tournament name: Spartan Weeklies #77
+tournament name: Tripoint Smash 120
+tournament name: No Caps 28 @ MSC Room 2401
+tournament name: Elite Smash Friday #62
+tournament name: Orbitar 91
+tournament name: Fire Fox Fridays #55
+tournament name: Coca-Cola Breakpoint Ultimate 2021.11
+tournament name: VirtuaSmash #16
+tournament name: Orcus Smash #6: DeepFreeze Edition
+tournament name: Arenas Stadium - Enigma Competition
+tournament name: Phantom No DI Zone
+tournament name: Smash Class 24
+tournament name: Winter National 2021
+tournament name: Winter National 2021
+tournament name: Atibaia Reloaded
+tournament name: Midlands Gaming's Saluda Showdown
+tournament name: Infinite Horizons
+tournament name: Flavortown Throwdown
+tournament name: BU Smash Society Bimonthly 11
+tournament name: BU Smash x Fiji Charity Event
+tournament name: Campus Clash! Fall 2021
+tournament name: Localhost Grand Opening at "The Block" - Free 1K Smash Event
+tournament name: Xenosaga XXXVII
+tournament name: TAS Tournament 2
+tournament name: Willamalane eSports Smash Tournament 11/13/21
+tournament name: Gameshotz monthly #3
+tournament name: Smash Knights Fall 2021 #9
+tournament name: DAT Monday Meltdown 202
+tournament name: Main Event Monday - Post Main Stage Tournament
+tournament name: Ultimate @ Xanadu 431
+tournament name: LHT #78 @QUICKLY Feat. Joseph
+tournament name: LAN King Weekly 11/16
+tournament name: Ignition #244
+tournament name: Xeno224
+tournament name: Ultimate Shockwave 86
+tournament name: Le Hub #19
+tournament name: 4o4 Smash Night: Glitch Qualifier & $1K Pot Bonus!!!
+tournament name: Throwdown Thursday #140
+tournament name: Throwdown Thursday #101
+tournament name: AL 79: Dragons Lair
+tournament name: JRGB Smash Night #23
+tournament name: SmashLAN'd #129 | Hosted by Game Arena
+tournament name: Bay State Beatdown Week 21
+tournament name: FreaksRichardson31
+tournament name: Paragon City Smash 26
+tournament name: Bring More Setups #104
+tournament name: CN:B-Airs #302
+tournament name: The Grind Fridays 163
+tournament name: AON Ultimate #91
+tournament name: Seth Stone's Finale Farewell (SSPMM #5)
+tournament name: Code Red 26: PS2 Returns ($100 pot bonus) powered by LEVELUP
+tournament name: Spartan Weeklies #78
+tournament name: CSTAT Fall 2021 Arcadian @ MSC Room 2406B
+tournament name: Tripoint Smash 121
+tournament name: Benobo Bi-Weekly #5: We makin bread
+tournament name: USC Biweeklies #65: Fall 2021 Finale!
+tournament name: Spaced Out Charity Smash
+tournament name: Game Lab Smash #19
+tournament name: UBC Weekly #7: Domino's Pizza Effect
+tournament name: Metamorph 5
+tournament name: VCA Vienna Challengers Arena 2021
+tournament name: Quién sos I
+tournament name: Chester Smash VIII
+tournament name: Midwest Open Invitational ($1000 Ultimate Pot Bonus)
+tournament name: STAR K.O. - BEYOND THE BLAST ZONE - ROUND #2
+tournament name: Uprising - MISU Arcadian
+tournament name: Smash The Line: Fourth Phase
+tournament name: Heartbeat II
+tournament name: Bring More Setups #100: HD ReMix
+tournament name: Ascension: Harvest Festival
+tournament name: Revenge of the 6ix: November Edition - Ontario Smash Ultimate / SSBM Regional
+tournament name: Moo Moo Meadows
+tournament name: Domino Effect 18
+tournament name: DeSmash Smashfest #81: Turkey Timeout
+tournament name: Smashing the Ice 5
+tournament name: Localhost Denver - Super Smash Monthly #3
+tournament name: VSU Blazing Colosseum #3
+tournament name: Get in the Game! 2021 - A San Diego Smash Regional Fundraiser for Extra Life
+tournament name: Rise of Guildhouse
+tournament name: 4o4 Smash Monthly
+tournament name: Super Sunshine Smash 6
+tournament name: Trouble iN the Triangle (TNT)
+tournament name: SmashGt Reboot Series #2
+tournament name: Sabotage 3: And Knuckles feat. EVERYONE!
+tournament name: Smash Knights Fall 2021 #10
+tournament name: Between 2 Lakes #34- A Madison Super Smash Bros. Tournament
+tournament name: RVA Smash #10
+tournament name: Sudden Death | Van Isle Monthly
+tournament name: Fusion OFFLINE #97 -- The Fusion Arcadian Ultimate Edition - $200 Bonus
+tournament name: 4o4 Smash Night: Tuesday Thanksgiving Week
+tournament name: Ultimate @ Xanadu 432
+tournament name: Smash Parmesan #69 (nice) - Smash Ultimate Weekly presented by 1Life2Play
+tournament name: Blastzone Revamped+ 14
+tournament name: LHT #79 @Quickly  Feat. MONTE
+tournament name: LAN King Weeekly 11/23
+tournament name: Xeno225
+tournament name: Ignition #245
+tournament name: Ultimate Shockwave 87 ~Thanksgiving Edition~
+tournament name: Smashvania #23
+tournament name: Guildhouse Smash Ultimate #11
+tournament name: NOMore Friendlies 6
+tournament name: Le Hub #20
+tournament name: The Weekly Wave #10 - Toronto Smash Ultimate + Melee Weekly
+tournament name: UTT Arena 2021
+tournament name: CN:B-Airs #303
+tournament name: CouchWarriors VIC November Ranking Battle 2021 - Smash & RoA (CWLeague）
+tournament name: Code Red 27: Black Friday ($150 pot bonus) powered by LEVELUP
+tournament name: CWQLD | November Ranbat 2021
+tournament name: The Grind Fridays 164
+tournament name: FD Friday 157
+tournament name: Tripoint Smash 122
+tournament name: Elite Smash Friday #63
+tournament name: Orbitar 92
+tournament name: Game Lab Smash #20
+tournament name: Fair Game 14
+tournament name: Milano Smash District - II
+tournament name: WaveBounce 3
+tournament name: Back in Blood 2
+tournament name: Manitoba Bonely #5
+tournament name: Clasificatorio Delfino Maza Reta 2022
+tournament name: The Cave is STACKED - Feat. Symphony
+tournament name: Boodabash Monthly #2 at Contender eSports!
+tournament name: Mind Over Meta
+tournament name: Summon Future! An Ultimate Arcadian
+tournament name: Home Run at The Home Key 4
+tournament name: Murdoch University Bi-Monthly powered by Knockout Series - November
+tournament name: XGTS 2021 November
+tournament name: Elite Reborn IV
+tournament name: No More Lag #4
+tournament name: Charlottetown Bar Fights : New Dawn
+tournament name: BrookLAN Brawls #15: A Smash Ultimate Weekly Series
+tournament name: Ultimate @ Xanadu 433
+tournament name: LAN King Weekly 11/30
+tournament name: 2 Frame Tuesday # 31
+tournament name: API Test Tournament
+tournament name: Ignition 246
+tournament name: Guildhouse Smash Ultimate #12
+tournament name: 4o4 Smash Night
+tournament name: Le Hub #21
+tournament name: Throwdown Thursday #141
+tournament name: Throwdown Thursday #102
+tournament name: SmashLAN'd #130 | Hosted by Game Arena
+tournament name: Skypad Pre-CEO Edition
+tournament name: Bay State Beatdown Week 22
+tournament name: Smash Legends Thursdays #8 (w/ Doubles)
+tournament name: Smash Ultimate @ UCI #44: For Glory ($100 POT BONUS)
+tournament name: The Night Before CEO
+tournament name: PCG Smash Weekly 27
+tournament name: Final Destination V
+tournament name: CN:B-Airs #304
+tournament name: Bring More Setups #105 (2021 FINALE!!!!)
+tournament name: The Grind Fridays 165
+tournament name: Northeastern Ultimate Tournaments F'21 Week 11
+tournament name: Tripoint Smash 123
+tournament name: Mav Mayhem #81 (Holly Jolly LAN + $200 pot bonus!!!)
+tournament name: The Prowling Grounds 58
+tournament name: Game Lab Smash #21
+tournament name: Critical Hit #6 - SALT
+tournament name: BIG LAB: Holiday Fest
+tournament name: Roll The Tape
+tournament name: Bourbon State Gaming: Double Barreled V
+tournament name: Revolt: Revival
+tournament name: The Fish Tank 2
+tournament name: GCU Fall Tournament Series: Super Smash Showdown
+tournament name: NJIT x Collision Supernova
+tournament name: Smashiversary 2021
+tournament name: The Guild Championship
+tournament name: Chilly Mountain x OS NYC Presents: Super Smash Bros. Ultimate
+tournament name: Sinistar Saga #15
+tournament name: Jupiter Discharge 1
+tournament name: SmashDay 5
+tournament name: Wolvarena 3 Presented by Team Solstice and Ann Arbor
+tournament name: Edge 3rd Anniversary Tournament
+tournament name: Comet Clash S7 #11

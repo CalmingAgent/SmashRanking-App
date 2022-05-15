@@ -1,0 +1,1140 @@
+tournament name: Season's Beatings
+tournament name: Unismash #7- Ultimate Birthday
+tournament name: Lightning: Volume 3
+tournament name: VirtuaSmash #10
+tournament name: Battle Coliseum 2019
+tournament name: Smash Class 20
+tournament name: Mango's Birthday Bash @ Red Bull AdrenaLAN
+tournament name: Invincible 5
+tournament name: Farewell, Smash 4
+tournament name: Smash Bros. Rescue X2
+tournament name: KSU Smash Presents: Go For Gold X
+tournament name: Domopalooza Winter Finale($1000 pot bonus)
+tournament name: Abierto Guadalajara Ultimo Reto
+tournament name: Queen City Arcadian
+tournament name: Smash @ Tecmi 4
+tournament name: 2GG: Kongo Saga
+tournament name: Xenosaga XXX
+tournament name: Emerald Spark
+tournament name: Stampede 2019
+tournament name: Encore Smash Monthly
+tournament name: SUN with cash #3
+tournament name: McClassic 5 Ghost of Chrismus Past
+tournament name: SoVa Arcadian @ GameOn
+tournament name: Smash à Lez Bi-Monthly #22 - THE LAST OF 2019
+tournament name: That's Not Safe #110
+tournament name: Fusion: The Weekly #1
+tournament name: Cityscape 48
+tournament name: Mega Smash Mondays 219
+tournament name: EBS x Zen Gaming #49
+tournament name: Cornismash #48
+tournament name: Ultimate @ Xanadu 332
+tournament name: LAN King Smash Weekly 12/10/19
+tournament name: Bonus Stage #70: Smash Bros Ultimate at 251 Club
+tournament name: Xeno191
+tournament name: Ultimate Shockwave 53
+tournament name: Meltdown Ultimate Weeklies S2#15
+tournament name: SmashLAN'd 94
+tournament name: 4o4 ULTIMATE WEEKLY 4.0
+tournament name: High School Showdown Qualifier #2
+tournament name: THrowdownThursday #39
+tournament name: Sync or Swim #50
+tournament name: Bob-omb Battlefield
+tournament name: The Grind Fridays 105
+tournament name: AON Smash Ultimate #053
+tournament name: SeaSideSmash #6
+tournament name: CN:B-Airs #218
+tournament name: SSUB: Ultimatum 2
+tournament name: Farmington High Smash 2019
+tournament name: Pissmas - A Coastal Clash Christmas Special
+tournament name: Orbitar 82
+tournament name: Gamerz Rebooted #156
+tournament name: Revival of Kin 160
+tournament name: Don't Smash The Wall
+tournament name: FGH 2 X Mazziv-Saga
+tournament name: Saint Smash #2
+tournament name: ULTIMATE MAYHEM 4 - CLUTCH23. SMASH SEASON 2
+tournament name: SmashDash XXX: [REDACTED]
+tournament name: JTS Takeover: Wonderfly
+tournament name: Smash Coldness 2
+tournament name: Smash Legends 2
+tournament name: Wolvarena 2
+tournament name: Class Change Warrior
+tournament name: No Jawns - A Philadelphia Regional Event
+tournament name: 4GG Final Warning: Hothotization: War of Undermaine
+tournament name: Super Ascension
+tournament name: Super Ascension
+tournament name: Hidden Flame
+tournament name: Final Destination IV
+tournament name: Holiday Ruckus 2019
+tournament name: No John's #29
+tournament name: Smash Bros Ultimate/Tekken 7 OC Comic Con Game Room Tournaments
+tournament name: CoVill Gaming Championship 2019
+tournament name: SHFFL Anniversary #3
+tournament name: PR Wars
+tournament name: The Big L
+tournament name: ConComics Diciembre 2019
+tournament name: The Snap 8: Final Fight
+tournament name: Rose City Unification 12
+tournament name: Platinum Star Smash S4:E3 - NJ Ultimate Monthly
+tournament name: Quebec Arcadian 6
+tournament name: Meltdown Barcelona 7
+tournament name: Smashadelphia @ Gifts for Gamers 2019!
+tournament name: MK-Fest 2019
+tournament name: SYNTHESIS 50
+tournament name: Fusion: The Weekly #2
+tournament name: Cityscape 49
+tournament name: 6 Rugs and a Bracket #43
+tournament name: Mega Smash Mondays 220
+tournament name: EBS x Zen Gaming #50
+tournament name: Ultimate @ Xanadu 333
+tournament name: Baecation 50 - A Smash Bros. Weekly
+tournament name: LAN King Christmas Special 12/17/2019
+tournament name: Xeno192
+tournament name: Smash Labs Weekly (2019-12-18)
+tournament name: Ultimate Shockwave 54
+tournament name: HYPE Smashing Lounge 10
+tournament name: SmashLAN'd 95
+tournament name: 4o4 ULTIMATE WEEKLY 4.1
+tournament name: Otaku Zone Season 4 Week 11
+tournament name: That's Not Safe #111: THURSDAY EDITION
+tournament name: The Grind Fridays 106
+tournament name: AON Smash Ultimate #054
+tournament name: CN:B-Airs #219
+tournament name: Maji Game Night #44
+tournament name: FLEX #28
+tournament name: Tripoint Smash 89
+tournament name: Revival of Kin 161
+tournament name: Knee of Justice #9 X Chula Esports
+tournament name: Offstage Smash Ultimate @Comic Fiesta
+tournament name: Smash @ Subiaco
+tournament name: Codec Call 4
+tournament name: Mini Salty Arena Cup Ultimate #3
+tournament name: Jump In The Pool 3
+tournament name: XG: Merry Techmas
+tournament name: Pixelpokal Winter 2019
+tournament name: Smash Rush Monthly #1
+tournament name: The Arcadian Before Christmas
+tournament name: Smash For Tots Holiday Toy Drive
+tournament name: Juicy Monthly - December 21st, 2019!
+tournament name: Comeback Tournaments - Blast Zone
+tournament name: Tamihi 2 - "Microwaved Steak": A Fraser Valley Smash Regional
+tournament name: XenoArcadian 2019 Q4
+tournament name: Garden State Smashdown
+tournament name: Solstice: Winter Arcadian
+tournament name: Hard Read Ultimate #49
+tournament name: Shine Today #12 Season 3
+tournament name: Waveshine #24
+tournament name: Ultimate Gaiden #15: Smash at Shots Vol.5
+tournament name: Flowertown Rumble 5
+tournament name: Smash Fight Club 209
+tournament name: That's Not Safe #112
+tournament name: Fusion: The Weekly #3
+tournament name: Cityscape 50
+tournament name: 6 Rugs and a Bracket #44
+tournament name: Mega Smash Mondays 221
+tournament name: 4o4 ULTIMATE WEEKLY 4.2
+tournament name: SmashLAN'd 96
+tournament name: Smashfield 215 Presented by High Score eSport @ Fraternal Eagles
+tournament name: Super Ultimate Shockwave 55
+tournament name: Game Underground Ultimate Weekly S04W13
+tournament name: Big Blue Ultimate
+tournament name: Vivaldi Winter 2019
+tournament name: CN:B-Airs #220
+tournament name: AON Smash Ultimate #055
+tournament name: Maji Game Night #45
+tournament name: The Grind Fridays 107
+tournament name: Tripoint Smash 90
+tournament name: HKSBC Winter Major 2019
+tournament name: Gamerz Rebooted #158
+tournament name: Revival of Kin 162
+tournament name: SmashG Sling 8
+tournament name: BIG LAB: Holiday Edition
+tournament name: Gamers Finest X-Smash Tournament
+tournament name: HABBY Birthday 2019 ft. $1000 Pot Bonus - An ABB Ontario Regional
+tournament name: Holiday Heist 5
+tournament name: PRGL & Red Rooster - Holiday Tournament
+tournament name: Bourbon State Gaming: Yuletide Barrel II
+tournament name: EON Presents: Monthly [End of Decade]
+tournament name: Push the Limit 10
+tournament name: How Joker Stole Christmas 2019
+tournament name: The Forge: Season 4 - Episode 2 - 2019 Finale!
+tournament name: Smash Strike Impact #3 - Last Seasonal Tournament 2019
+tournament name: Bag o' Smash - December 2019 - $150 Pot Bonus!
+tournament name: Star KO: DSM Melee/Ultimate Monthly
+tournament name: Time to Thaw
+tournament name: Basement Tier #2 $150 Pot Bonus
+tournament name: Unity Station 9
+tournament name: Torneo Pa' Parquear | Super Smash Bros. Ultimate | 5ta Edición
+tournament name: Launchpad 48 - Arcadian!
+tournament name: Unknown Level ?
+tournament name: Road to Glitch 8: Braixen Edition
+tournament name: Get Off Your Friendlies #3 - A Smash Ultimate Monthly
+tournament name: Smashbar 12/29
+tournament name: SYNTHESIS 51
+tournament name: Mellow Smash Ultimate #41
+tournament name: That's Not Safe LEGACY #113: $100 pot bonus for Ultimate
+tournament name: Fusion: The Weekly #4
+tournament name: Cityscape 51
+tournament name: 6 Rugs and a Bracket #45
+tournament name: Mega Smash Mondays 222
+tournament name: LAN King New Year Bash-O-Ganza-Palooza
+tournament name: Prodigious Smash 1/1/20: First Stock New Years Event
+tournament name: Xeno194
+tournament name: Ultimate Shockwave 56
+tournament name: Smash Cafe 1/1/20
+tournament name: Smash @ Respawn #43
+tournament name: 4o4 Ultimate Weekly 4.3
+tournament name: SmashLAN'd 97
+tournament name: Smashfield  216  Presented by High Score @ Fraternal Order of Eagles
+tournament name: SmashLoft Ultimate Weekly #56
+tournament name: Encore Smash Weekly # 87
+tournament name: Otaku Zone Season 5 Week 1
+tournament name: Super Smash Thursdays #50 ($100 Bonus Pot!)
+tournament name: FREAKS 100
+tournament name: Festival of Fights - Week 4: Super Smash Bros. Ultimate
+tournament name: KCEX - Kansas City Esports Expo
+tournament name: The Grind Fridays 108
+tournament name: Kumite in Tennessee 2020
+tournament name: CN:B-Airs #221
+tournament name: Maji Game Night #46
+tournament name: AON Smash Ultimate #056
+tournament name: Couchwarriors QLD January Ranking Battle 2020
+tournament name: FLEX #29
+tournament name: Tripoint Smash 91
+tournament name: Smash @ UofA #43 - Jan 3
+tournament name: Raceway Fridays #28 - Race to 2020
+tournament name: マエスマTOP#1 / MaesumaTOP#1【大乱闘スマッシュブラザーズSPECIAL オフライン大会】
+tournament name: Gamerz Rebooted #159
+tournament name: Revival of Kin 163
+tournament name: Elite Gaming Center Ultimate #11
+tournament name: New Era 2 - The UK's first Ultimate Arcadian
+tournament name: Esports Game Arena: Fight Night XL 3: Winter Edition
+tournament name: Victory Road I
+tournament name: Grandmaster's Gateway ft. Gemini
+tournament name: Tri-City 3 Free Waters
+tournament name: Equalizer #2
+tournament name: STB Presents: BIG 3 - The BIG Lebowski
+tournament name: Flat Zone January 2020
+tournament name: 2GG: Socal Chronicles 2020
+tournament name: Fremont's Finest Strikes Back (G7 Edition) at Factory Tea Bar
+tournament name: Smashbar 1/5
+tournament name: Smashcade #23
+tournament name: Smash à Lez Bi-Monthly #23
+tournament name: SYNTHESIS 52
+tournament name: Fusion: The Weekly #5
+tournament name: Cityscape 52: Year One
+tournament name: 6 Rugs and a Bracket #46
+tournament name: Mega Smash Mondays 223
+tournament name: EBS x Zen Gaming #51
+tournament name: Cornismash #51
+tournament name: 2 Frame Tuesday #18
+tournament name: LAN King Smash Weekly 1/7/2020
+tournament name: Xeno195
+tournament name: Ultimate Shockwave 57
+tournament name: Smash Cafe 1/8/20 feat. <-/Ben and Cannon Red
+tournament name: [2020-01-08] Smash Labs Weekly - SSBU
+tournament name: Valhalla III
+tournament name: Smashfield 217  Presented by High Score eSport @ Fraternal Order of the Eagles
+tournament name: Meltdown Ultimate Weeklies S2#17
+tournament name: smashLAN'd 98
+tournament name: 4o4 Ultimate Weekly 4.4
+tournament name: Thursday Throwdown #51 - January 9th, 2020
+tournament name: SmashLoft Ultimate Weekly #57
+tournament name: Encore Smash Weekly # 88
+tournament name: Otaku Zone Season 5 Week 2
+tournament name: Smash Ultimate @ UCI #30: New Year, New Mii
+tournament name: Spot Dodge Thursdays #1
+tournament name: SloBroke #115
+tournament name: Smash @ Swanston #3
+tournament name: Gametek Nights #11
+tournament name: The Grind Fridays 109
+tournament name: CN:B-Airs #222
+tournament name: AON Smash Ultimate #057
+tournament name: Maji Game Night #47
+tournament name: CouchWarriors VIC January Ranking Battle (2020) - Smash & RoA
+tournament name: Spartan Weeklies #62
+tournament name: Tripoint Smash 92
+tournament name: Vandertilted #40
+tournament name: Noir Presents: GLAN Spring 2020 Pre-Weekly
+tournament name: Smash @ UofA #44 - Jan 10
+tournament name: Smash @ State 26: Spring Kickoff
+tournament name: U of C 2020 Winter Weekly #1
+tournament name: Orbitar 83
+tournament name: Gamerz Rebooted #160
+tournament name: Revival of Kin 164
+tournament name: TMT | Royalty 3
+tournament name: Tizona
+tournament name: Fist Bump International
+tournament name: Just Roll With It! 12
+tournament name: Overclocked Ultimate IV
+tournament name: Battle Subway III
+tournament name: Battle Frontier II x Kasey's Birthday Bash
+tournament name: Take It Easy (feat. Myst, Iris, TM4, Deus, Exalted, & Cantolope)
+tournament name: Defend The Odyssey (w/ $100 Pot Bonus!)
+tournament name: NSU - EVOCHACRA
+tournament name: Read the Dam Details 4
+tournament name: Kirbstomped
+tournament name: Gwinnett Brawl: January 2020 (Smash Side)
+tournament name: Sky Kingdom
+tournament name: Smashurai - Superstar Dojo
+tournament name: Blastoff
+tournament name: UVic: Boomer Saga
+tournament name: Xenosaga XXXI
+tournament name: SmashDEN - January 2020
+tournament name: Border League Round 5 ultimate 1.0
+tournament name: Combat For A Cause: Make a Wish Edition
+tournament name: Out of Frame 4 - Super Smash Bros Ultimate Tournament
+tournament name: GlowHouse Gaming Monthly #12
+tournament name: SUN with cash #4
+tournament name: EGS Cup#3
+tournament name: SmashErie: 1st Smashiversary!
+tournament name: Tempus Winter
+tournament name: Smash Fight Club 210
+tournament name: Smash Bounty #14 ($100 POT BONUS)
+tournament name: SYNTHESIS 53
+tournament name: Fusion: Weekly 6
+tournament name: One Up Ultimate 01/13/20
+tournament name: Cityscape 53
+tournament name: 6 Rugs and a Bracket #47
+tournament name: Mega Smash Mondays 224
+tournament name: EBS x Zen Gaming #52
+tournament name: Cornismash #52
+tournament name: Ultimate @ Xanadu 337
+tournament name: LAN King Weekly 1/14/2020
+tournament name: EON @ Money G [Tournament Series #54]
+tournament name: Xeno196
+tournament name: Ultimate Shockwave 58
+tournament name: Weekly Wednesday #184
+tournament name: Smash Labs Weekly (2020-01-15)
+tournament name: Throwdown Thursday #43
+tournament name: Smash @ Respawn #45
+tournament name: Meltdown Ultimate Weeklies S2#18
+tournament name: 4o4 Ultimate Weekly 4.5
+tournament name: SmashLAN'd 99
+tournament name: SmashLoft Ultimate Weekly #58
+tournament name: Otaku Zone Season 5 Week 3
+tournament name: Super Smash Thursdays #52
+tournament name: Smash Ultimate @ UCI #31: Just Take Five
+tournament name: Game Lab Thursdays (Now All Ages!!!)
+tournament name: Smash @ Swanston #4
+tournament name: Gametek Nights #12
+tournament name: Ligue Magenta #4
+tournament name: The Grind Fridays 110 (Pre Glitch 8 Weekly!)
+tournament name: TRY HARDER !
+tournament name: CN:B-Airs #223
+tournament name: Shonen Tournament. The Sky is the limit
+tournament name: Maji Game Night #48
+tournament name: Ann Arbor Arena #40
+tournament name: Gainesville Stock Exchange 113
+tournament name: AON Smash Ultimate #058
+tournament name: Zaxby's/ CSL Presents: Name Pending #2 ($750 ZAXBY'S GIFT CARD PRIZE POOL)
+tournament name: Queensland Arcadian: Mid-Level Madness
+tournament name: Spartan Weeklies #63
+tournament name: Smash @ UofA #45 - Jan 17
+tournament name: USC Biweekly 58: Spring 2020 Opener
+tournament name: Gamerz Rebooted #161
+tournament name: Revival of Kin 165
+tournament name: Massilia Winter Smash 2020
+tournament name: VirtuaSmash #11
+tournament name: Crunch Cup Smash Vol. 3
+tournament name: HTS Ultimate #5 - Welcome2020
+tournament name: Smash Castle : Club Kingdom Tournament
+tournament name: Heat Wave Super 3
+tournament name: Clemson Smash Series 25
+tournament name: Hyrule Circuit #4
+tournament name: Smash Fest to the Sky
+tournament name: Glitch 8 - Missingno
+tournament name: Revenge of the 6ix: January 2020 Edition
+tournament name: Smash The Frontier Union
+tournament name: Smash on a Stick #1: A Drexel Smash Ult. Biweekly
+tournament name: Settle It! - Pizza Bites vs. Chicken Nuggets
+tournament name: LUST #46 LSU Super Smash Bros Monthly
+tournament name: Blazter - Ultimate Cup III
+tournament name: WashU Bears January Monthly - Bear Beginnings
+tournament name: Redwood City Smash Tournament V
+tournament name: UCSB: Super Smash Odyssey Winter 2020
+tournament name: Smash Bros at Church 8: Rebirth
+tournament name: OIT TechCon Smash Ultimate Tournament
+tournament name: AFKxp Smash Monthly
+tournament name: High Desert Smash #8
+tournament name: Star Forge: Underground #17 presented by Couch Warriors Sydney
+tournament name: SmashG Sling 9
+tournament name: Ultimate Gaiden #16: Smash at Shots Vol.6 Where's my money?
+tournament name: First Hit!
+tournament name: Smash at The Comic Strip: Punching Up
+tournament name: Smash Fight Club 211
+tournament name: Smash Yard 3
+tournament name: Level Up
+tournament name: Smash the Library 7
+tournament name: The SQUAD
+tournament name: MTM Esports presents: SmashForge!
+tournament name: Smash à Lez Bi-Monthly #24
+tournament name: SYNTHESIS 54
+tournament name: That's Not Safe #116
+tournament name: Fusion: The Weekly #7
+tournament name: Cityscape 54
+tournament name: 6 Rugs and a Bracket #48
+tournament name: Mega Smash Mondays 225
+tournament name: EBS x Zen Gaming #53
+tournament name: Cornismash #53
+tournament name: Ultimate @ Xanadu 338
+tournament name: LAN King Smash Weekly 1/21/2020
+tournament name: Bonus Stage #71: Smash Bros Ultimate at 251 Club - G7 Edition
+tournament name: Hollywood Action Tuesdays 97
+tournament name: Smash Yard 3: Torneo de Smash
+tournament name: Xeno197
+tournament name: Hype Waves 36
+tournament name: Ultimate Shockwave 59
+tournament name: Weekly Wednesday #185: New Time Edition
+tournament name: HYPE Smashing Lounge 11
+tournament name: SmashLAN'd 100
+tournament name: Throwdown Thursday #44
+tournament name: 4o4 Ultimate Weekly 4.6
+tournament name: Thursday Throwdown #52 - January 23rd, 2020
+tournament name: SmashLoft Ultimate Weekly #59
+tournament name: Otaku Zone Season 5 Week 4
+tournament name: Pre-G7
+tournament name: Smash Ultimate @ UCI #32: Heavy Consequences
+tournament name: Smash @ Swanston #5
+tournament name: Gametek Nights #13
+tournament name: Genesis 7
+tournament name: The Grind Fridays 111
+tournament name: Torneo Nit FanCon 10a edición
+tournament name: CN:B-Airs #224
+tournament name: Gainesville Stock Exchange 114
+tournament name: Maji Game Night #49
+tournament name: AON Smash Ultimate #59
+tournament name: Ann Arbor Arena #41
+tournament name: Underground New Age
+tournament name: Millersville Spring Weeklies 2020 #1
+tournament name: The Prowling Grounds 48
+tournament name: Spartan Weeklies #64
+tournament name: URI Smashdown
+tournament name: NO CAPS!! #12 @ Rudder Tower 410
+tournament name: Tripoint Smash 94
+tournament name: UConn Weekly Ultimate 26
+tournament name: Smash @ State 27
+tournament name: Smash @ UofA #46 - Jan 24
+tournament name: Orbitar 84
+tournament name: Smash at the Den Winter 2020 #1
+tournament name: Not Your Parce #19
+tournament name: 4 Seasons Tournament : Winter 2020
+tournament name: Label[i] Smash #2
+tournament name: Knock Out!! 5
+tournament name: Dreamhack Leipzig 2020
+tournament name: ULTIMATE MAYHEM 5 - CLUTCH23. SMASH SEASON 2
+tournament name: BIG LAB #3
+tournament name: Elite Smash #9
+tournament name: House of Smash 127
+tournament name: Scenic Smash 4
+tournament name: Battle For Bells
+tournament name: S@PS 88
+tournament name: River City Runbacks January 2020
+tournament name: Basement Series 14
+tournament name: Forge S5:E1 - The Arcadian
+tournament name: The Manhattan Project 2
+tournament name: Scoville Showdown 6
+tournament name: Smash Bros @ WSU Jan 2020 Monthly Tournament
+tournament name: Southside Dojo - January Edition - 1/25/2020
+tournament name: Fargo's Fierce Friendly - January 2020
+tournament name: Rig The Bracket #2 - Feat. Juice
+tournament name: Kings of Comox
+tournament name: Launchpad #52
+tournament name: Young & Rooted 1k
+tournament name: ULL Final Temporada 1
+tournament name: The Come Up 4: Civil War
+tournament name: ICCS: We Take Those!
+tournament name: Smash the Line #1
+tournament name: Hypest Team Monthly #14
+tournament name: Stockholm Shieldbreakers Monthly #4
+tournament name: Best of the Nest 5
+tournament name: Clear a New Path!
+tournament name: Maji Game Night One Year Anniversary Tournament
+tournament name: Smash Fight Club 212
+tournament name: Smash at El Pinche #1
+tournament name: Dairantou - The Final
+tournament name: SD Sundays #7
+tournament name: Mellow Smash Ultimate #44
+tournament name: SYNTHESIS 55
+tournament name: Fusion: The Weekly #8
+tournament name: 6 Rugs and a Bracket #49
+tournament name: Mega Smash Mondays 226
+tournament name: EBS X Zen Gaming #54
+tournament name: Cornismash #54
+tournament name: Meltdown Avignon #14
+tournament name: Ultimate @ Xanadu 339
+tournament name: LAN King Ultimate Weekly: Hoes Glad Edition 1/28/2020
+tournament name: Xeno198
+tournament name: Super Ultimate Shockwave 60
+tournament name: UB Smash Ultimate Singles Spring 2020 #1
+tournament name: Weekly Wednesday #186
+tournament name: SmashLAN'd 101
+tournament name: SmashLoft Ultimate Weekly #60
+tournament name: 4o4 ULTIMATE WEEKLY 4.7
+tournament name: Otaku Zone Season 5 Week 5
+tournament name: Super Smash Thursdays #54
+tournament name: Smash Ultimate @ UCI #33: Tearing Through Heaven
+tournament name: Game Lab Smash
+tournament name: Spot Dodge Thursdays #4
+tournament name: Don't worry about it Vol.26 Spring 2020 season opener
+tournament name: Gametek Nights #14
+tournament name: The Grind Fridays 112
+tournament name: Getting Schooled 2
+tournament name: UMD Smash Ultimate Fest 1/31 - Training Continues
+tournament name: AON Smash Ultimate #060
+tournament name: Kami-Con Season Twelve: "StarShipWrecked"
+tournament name: SeaSideSmash #8
+tournament name: CN:B-Airs #225
+tournament name: Gainesville Stock Exchange 115
+tournament name: Maji Game Night #51
+tournament name: Ann Arbor Arena #42
+tournament name: UTK Smash Bash 7
+tournament name: Millersville Fall Weeklies 2019 #14
+tournament name: Couchwarriors QLD February Ranking Battle 2020
+tournament name: NO CAPS!! 13 @ MSC 2401
+tournament name: The Parker Byers Ultimate Cool Vibes Experience 1
+tournament name: Smash @ UofA #47 - January 31
+tournament name: RIT Smash Ultimate Arcadian
+tournament name: Tripoint Smash 95
+tournament name: 西武撃＃４
+tournament name: Smash Bros @ WSU weekly #31
+tournament name: Bit Master Mty #9
+tournament name: Oasis - Smash Ultimate Major
+tournament name: Raceway Fridays #32
+tournament name: Gamerz Rebooted #162
+tournament name: Revival of Kin 166
+tournament name: AOT Monthly 2
+tournament name: Smash Zone XXVI
+tournament name: Manchester Conquest 6: In Honour of SSM JD
+tournament name: Critical Hit #1
+tournament name: BOILINGPOINT BRAWL
+tournament name: Dare 2 Dair
+tournament name: Spotlight: by Hitpoint Tournaments
+tournament name: Battledome 7
+tournament name: Equalizer #3
+tournament name: Bourbon State Gaming: Squad Goals 2020
+tournament name: ORION 2020
+tournament name: LAN King Smash Royale XI
+tournament name: ButtonMasherZ - Samurai Shodown, SSBU, DBFZ, BBTAG Special Event!
+tournament name: Frostfire 2020
+tournament name: Read the Dam Details 5
+tournament name: Juicy Monthly - February 1st, 2020
+tournament name: Superior Smash League #1
+tournament name: Smash @ The Parlor
+tournament name: Lomas Bar 2
+tournament name: Domino Effect 16
+tournament name: Spotdodge Monthly 2
+tournament name: Star KO: DSM Melee/Ultimate Monthly
+tournament name: Get in the Game! 2020: A Smash Bros. Regional Fundraiser Tournament
+tournament name: Hard Read Ultimate #55
+tournament name: SmashDEN - February 2020
+tournament name: Poultry City Classic #7
+tournament name: Encore Smash Monthly #12
+tournament name: Modesto Monthly Showdown #3
+tournament name: Sunset Smash 001 at Voltage eSports Center
+tournament name: Salty Arena Bi-Weekly S2 #7
+tournament name: Ultimate Gaiden #17: Smash at Shots Vol. 7 Endless Possibilities
+tournament name: Semanal SSBU SIGAD 2 Febrero 2020 (INVIERNO) en la ALV FEST
+tournament name: Smash à Lez Bi-Monthly #25
+tournament name: Fusion: The Weekly #9
+tournament name: Mellow Smash Ultimate #45
+tournament name: That's Not Safe #118
+tournament name: Cityscape 56
+tournament name: Mega Smash Mondays 227
+tournament name: Cornismash #55
+tournament name: Ultimate @ Xanadu 340
+tournament name: Dice Addiction Smash Ultimate Anniversary Tournament
+tournament name: Game Underground Ultimate Weekly S05W06
+tournament name: Bonus Stage #73: Smash Bros Ultimate at 251 Club
+tournament name: LAN King Smash Weekly 2/4/20
+tournament name: Ultimate Shockwave 61
+tournament name: Xeno199
+tournament name: Hype Waves 37
+tournament name: UB Smash Ultimate Singles Spring 2020 #2
+tournament name: SmashLAN'd 102
+tournament name: Juicy@RGB Smash Night #11
+tournament name: 4o4 ULTIMATE WEEKLY 4.8 T201
+tournament name: SmashLoft Ultimate Weekly #61
+tournament name: Otaku Zone Season 5 Week 6
+tournament name: Don't worry about it vol.27
+tournament name: Smash @ Swanston #7
+tournament name: Gametek Nights #15
+tournament name: Smash @ Respawn #47
+tournament name: Amiibo Tourney #30
+tournament name: La Choza de los Pequeñines #5
+tournament name: The Grind Fridays 113
+tournament name: UMD Smash Ultimate Fest 2/7 - Big Flex Eve
+tournament name: CN:B-Airs #226
+tournament name: AON Smash Ultimate #61
+tournament name: Gainesville Stock Exchange 116
+tournament name: Maji Game Night #52
+tournament name: Ann Arbor Arena #43
+tournament name: Millersville Spring Weeklies 2020 #3
+tournament name: Safe On Shield II
+tournament name: SBY Weekly 2/7/2020
+tournament name: Spartan Weeklies #65
+tournament name: NO CAPS!! 14 @ Rudder Tower 308
+tournament name: CLO's Cool Camping Cickback
+tournament name: Tripoint Smash 96
+tournament name: Smash @ UofA #48 - February 7
+tournament name: Smash @ State 28
+tournament name: The Prowling Grounds 49
+tournament name: Orbitar 85
+tournament name: Smash Bros @ WSU weekly #32
+tournament name: Gamerz Rebooted #163
+tournament name: Revival of Kin 167
+tournament name: Smash at the Den Winter 2020 #2
+tournament name: Smash That Ash: A Smash Ultimate Tournament
+tournament name: Elite Gaming Center Ultimate #12
+tournament name: Going Ham #4
+tournament name: Smash at Liege Tournament 14
+tournament name: Unification
+tournament name: Farming Saga
+tournament name: House of Smash 129
+tournament name: Paradise City 2020
+tournament name: Smash Gamers Palma 2
+tournament name: St. No John's 7
+tournament name: Super Smash Brother's Tournament
+tournament name: Grandmaster's Gateway 2
+tournament name: WestMan Gaming Expo 2020
+tournament name: Clemson Smash Series 26
+tournament name: Float
+tournament name: Shell Shock - A North Florida Regional
+tournament name: Push the Limit 11
+tournament name: Class Change Monk
+tournament name: PWA 2020
+tournament name: Smash Fest 11
+tournament name: No John's 30
+tournament name: Smash Strike Impact #4 - A New Beginning !
+tournament name: SuperFLEX: Minor Circuit
+tournament name: Super Smash Fight Club 2
+tournament name: Ames Smash February Fall Arcadian
+tournament name: Sweet Revenge #12: Presented by Level-Up Gaming
+tournament name: Gwinnett Brawl: February 2020 (Smash Side)
+tournament name: SKL: Prairie Pummel
+tournament name: Beat The Heat! 10
+tournament name: Platinum Star Smash S5:E1 NJ Monthly
+tournament name: UPS 3: Ultimate Polytown Slo-down
+tournament name: Launchpad #53
+tournament name: WSUCON 2020
+tournament name: Silver State Smash 2
+tournament name: Band Room Blitz 2: Smash Down Hoe Down
+tournament name: Smash Rush #27 @ LFG Royal Oak
+tournament name: SUPERBASH_1
+tournament name: Tax Deluxe: I
+tournament name: SUN With Cash #5
+tournament name: Throwback 2020 Zone 1 (Throwback 8)
+tournament name: Frame 9
+tournament name: Smashurai - Triforce Dojo
+tournament name: Dig Deep 2
+tournament name: XTR Ultimate League B.C. # 1
+tournament name: Smash @ McCarthy´s
+tournament name: Redwood Smash #6
+tournament name: MTM Esports presents: SmashForge #4
+tournament name: Cheat Code #0
+tournament name: SYNTHESIS 56
+tournament name: Mellow Smash Ultimate #46
+tournament name: Cityscape 57
+tournament name: 6 Rugs and a Bracket #51
+tournament name: Mega Smash Mondays 228
+tournament name: Cornismash #56
+tournament name: Ultimate @ Xanadu 341
+tournament name: Bonus Stage #74: Smash Bros Ultimate at 251 Club
+tournament name: LAN King Smash Weekly 2/11/20
+tournament name: Hollywood Action Tuesdays 100
+tournament name: Xeno200
+tournament name: Ultimate Shockwave 62
+tournament name: Smash Labs Weekly (2020-02-12)
+tournament name: Wednesday Whiffs - 02/12 $1,250 GTD
+tournament name: Smash @ Respawn #48
+tournament name: SmashLAN'd 103
+tournament name: Smash N Chill : Sponsored by High Score eSports @ Raddison of Farmington
+tournament name: Torneo Gratuito CaliBurger Smash Bros. Ultimate Sucursal Cholula
+tournament name: 4o4 Ultimate Weekly 4.9
+tournament name: SmashLoft Ultimate Weekly #62
+tournament name: Otaku Zone Season 5 Week 7
+tournament name: META SHIFT
+tournament name: Game Lab Smash
+tournament name: Spot Dodge Thursdays #6
+tournament name: Don't worry about it Vol. 28
+tournament name: Gametek Nights #16
+tournament name: Ligue Magenta #5
+tournament name: Superior Smash League #2
+tournament name: The Grind Fridays 114
+tournament name: Gainesville Stock Exchange 117
+tournament name: Maji Game Night #53
+tournament name: Ann Arbor Arena #44
+tournament name: The Bracket to end all Brackets
+tournament name: LAN ETS 2020
+tournament name: Smash @ UofA #49 - February 14
+tournament name: NO CAPS!! 15 @ Rudder Tower 301
+tournament name: Tripoint Smash 97
+tournament name: Icharibachode 2
+tournament name: USC Biweekly 59: Hot Singles in Your Area
+tournament name: Revival of Kin 168
+tournament name: Smash Rivals #5 by ASC & ESUG
+tournament name: Fair Game 12
+tournament name: E-Sports Wknd @ LUKB | Super Smash Bros. Ultimate Turnier
+tournament name: Uprise 2020
+tournament name: AUESmash Avignon Geek Expo
+tournament name: Japan Impact 2020
+tournament name: Smash Odyssey: Antwerp 5
+tournament name: Smash'Houille #4
+tournament name: Winter Clash Puerto Rico 2020
+tournament name: Pitt Smash Presents: The Dark Frames
+tournament name: Copa Reis do Norte: Episódio 3
+tournament name: Bowser Castle
+tournament name: Anchor Down Smash #17
+tournament name: Smash Rush Monthly #2 @ LFG Royal Oak
+tournament name: Royal City Rumble #3
+tournament name: Corinth Clash $750 Guaranteed Prize Pool
+tournament name: Sweet Spot 6 ($700 Pot Bonus)
+tournament name: Redemption
+tournament name: Bearcat Clash
+tournament name: ICCS: Banned Is In Our DNA
+tournament name: Ascension 2020: Back to Basics
+tournament name: B-Town Beatdown 64
+tournament name: Guerras Regias!
+tournament name: Salt Flats 2020
+tournament name: Super Smash Bros Finest: Introducing Smash to District 3
+tournament name: Shana Fest 5: Grab Thy Heart
+tournament name: WFGC Monthly 2/15/2020
+tournament name: Xenosaga XXXII
+tournament name: Stampede @ The Sport Stable #1 + MiniCon February 2020
+tournament name: LAN King Smash Royale XII
+tournament name: SMASH & PEPPER
+tournament name: Smash Cancer (Spring 2020)
+tournament name: OKSL X Staples 5
+tournament name: Meltdown Barcelona 8
+tournament name: Salty Arena Bi-Weekly S3 #1
+tournament name: CSL Southeastern Regional 2019-2020
+tournament name: 2GG: All In - An Ultimate National Arcadian
+tournament name: 2GG: All In - An Ultimate National Arcadian
+tournament name: ChillHouse
+tournament name: Smash Fight Club 214
+tournament name: Gator Games 13
+tournament name: Fremont's Finest Strikes Back IX at Factory Tea Bar
+tournament name: Xtreme Smash 4.0
+tournament name: Arsenal 30
+tournament name: Cheat Code #1
+tournament name: Smash à Lez Bi-Monthly #26
+tournament name: SYNTHESIS 57
+tournament name: Fusion: The Weekly #11
+tournament name: Mellow Smash Ultimate #47
+tournament name: That's Not Safe #120
+tournament name: One Up Ultimate 02/17/20
+tournament name: Smash @ The Connection 7
+tournament name: Cityscape 58
+tournament name: 6 Rugs and a Bracket #52
+tournament name: Mega Smash Mondays 229
+tournament name: Ultimate @ Xanadu 342
+tournament name: Cornismash #57
+tournament name: UpTilt Season 2 - THE READS
+tournament name: CFL Smackdown Ultimate #58 w/ $150 POT BONUS
+tournament name: Bonus Stage # 75: Smash Bros Ultimate at 251 Club
+tournament name: LAN King Smash Weekly 2/18/20
+tournament name: ACT Super Smash Bros. X ANU O-Week
+tournament name: Ultimate Shockwave 63
+tournament name: Hype Waves 38
+tournament name: Xeno201
+tournament name: Wednesday Whiffs - 02/19 $1,250 GTD
+tournament name: Smash Labs Weekly (2020-02-19)
+tournament name: Smash @ Respawn #49
+tournament name: SmashLAN'd 104
+tournament name: Ursa Minor 4 - Frostbite 2020 Pre-Weekly
+tournament name: 4o4 Ultimate Weekly 5.0
+tournament name: Don't worry about it Vol. 29
+tournament name: Smash @ Swanston #9
+tournament name: Frostbite 2020
+tournament name: Gametek Nights #17
+tournament name: UMD Smash Ultimate Fest 2/21 - Good Good Doris Edition
+tournament name: The Grind Fridays 115
+tournament name: AON Smash Ultimate #063
+tournament name: SeaSideSmash #9
+tournament name: Maji Game Night #54
+tournament name: Gainesville Stock Exchange 118
+tournament name: Couchwarriors VIC February Ranking Battle (2020) Smash & ROA
+tournament name: LVL UP EXPO 2020
+tournament name: Spartan Weeklies #67
+tournament name: BashFest
+tournament name: Tripoint Smash 98
+tournament name: NO CAPS!! 16 @ MSC 2401
+tournament name: Smash @ State 29
+tournament name: Smash @ UofA #50 - Feb 21
+tournament name: Orbitar 86
+tournament name: Smash Bros @ WSU weekly #34
+tournament name: Raceway Fridays #34
+tournament name: Gamerz Rebooted #165
+tournament name: Revival of Kin 169
+tournament name: Salty Arena Cup Ultimate #5
+tournament name: Rise I
+tournament name: The Ultimate Performance 3
+tournament name: Bailrigg 10
+tournament name: Orcus Smash #3
+tournament name: Elite Smushroom Kingdom X
+tournament name: WaveSmash Ultimate 7
+tournament name: [SSBU Academy Cup #1] Montpellier Gaming Academy × PROM PPC × Smash à Lez
+tournament name: House of Smash 131
+tournament name: BRUH #3
+tournament name: Show Me Your Moves
+tournament name: High Score 2020
+tournament name: Sweetspot #2
+tournament name: Almost Heaven 2
+tournament name: Smashcade:  Hyperdrive Edition
+tournament name: Blazter - Ultimate Cup IV
+tournament name: CSL @ Domino Effect 17
+tournament name: Davo’s Open Winter 2020 | SIGAD Ultímate
+tournament name: MGC : Elite Monthly Series #8
+tournament name: RedShift 7: Regional Crews!
+tournament name: Gate City Smash 6
+tournament name: Mensual Febrero
+tournament name: XTR Ultimate League B.C. # 2
+tournament name: The Spartan Arena #4!
+tournament name: February Fight Night - Saturday February 22nd 2020
+tournament name: Alaska ComiCon Smash tournament
+tournament name: Star Forge: Underground #18 presented by Couch Warriors Sydney
+tournament name: Smash Club #3
+tournament name: Fight Together
+tournament name: Beyond Elite VIII: Fire Emblem Saga
+tournament name: Smash al pastor #2
+tournament name: SmashOnIce #2
+tournament name: SYNTHESIS 58
+tournament name: That's Not Safe #121 Legacy: $100 pot bonus for Melee
+tournament name: Fusion: The Weekly #12
+tournament name: Dreamhack Abilene
+tournament name: Mega Smash Mondays 230
+tournament name: EBS x Zen Gaming #58
+tournament name: Cornismash #58
+tournament name: Ultimate @ Xanadu 343
+tournament name: Bonus Stage #76: Smash Bros Ultimate at 251 Club
+tournament name: LAN King Smash Weekly 2/25/20
+tournament name: Xeno202
+tournament name: Super Ultimate Shockwave 64
+tournament name: UB Smash Ultimate Singles Spring 2020 #3
+tournament name: Smash Labs Weekly (2020-02-26)
+tournament name: SmashLAN'd 105
+tournament name: Throwdown Thursday #49
+tournament name: Juicy@RGB Smash Night #14
+tournament name: Otaku Zone Season 5 Week 9
+tournament name: 4o4 Ultimate Weekly 5.1
+tournament name: Game Lab Smash
+tournament name: Spot Dodge Thursdays #8
+tournament name: Don't worry about it Vol. 30
+tournament name: Smash @ Swanston #10
+tournament name: Tripoint Smash 99
+tournament name: Lantrek 2020
+tournament name: Gametek Nights #18
+tournament name: Salt Championship Series #7
+tournament name: The Grind Fridays 116
+tournament name: AON Smash Ultimate #064
+tournament name: CN:B-Airs #229
+tournament name: FaZe Smash Tournament
+tournament name: Pensacon 2020 by Engage Gaming
+tournament name: Ann Arbor Arena #45
+tournament name: Florida Arcadian 2020
+tournament name: Free'd Up x UTK esports
+tournament name: Maji Game Night #55
+tournament name: UConn Weekly Ultimate 31
+tournament name: Smash @ UofA #51 - February 28
+tournament name: NO CAPS!! 17 @ MSC 2406-B
+tournament name: Nightlife 16
+tournament name: SEGI x Offstage - Smash Ultimate
+tournament name: Smash Bros @ WSU weekly #35
+tournament name: The Ultimate Adventure: Episode 37 Free-ky Friday
+tournament name: Gamerz Rebooted #166
+tournament name: Knee of Justice #10
+tournament name: Calyptus Cup X - Powwer Up
+tournament name: Final Smash DNA
+tournament name: Munich Smash Academia 6
+tournament name: VirtuaSmash #12
+tournament name: Super SmashPoint 3
+tournament name: Super Smash Fest: Torneo Bisiesto
+tournament name: Spartan Smash Invitational
+tournament name: Challenger Approaching 1: Captain Falcon
+tournament name: Winter Desync ft. Ally, FSharp, Holy, Floyd, Z, Deeder and more!
+tournament name: Extra Life 1-UP Open
+tournament name: Flame Choke 11
+tournament name: BeeSmash 3
+tournament name: Bourbon State Gaming: The Ultimate Leap
+tournament name: Basement Series 15
+tournament name: Ultimate Smashdown #1
+tournament name: The Thunderdome
+tournament name: Revenge of the 6ix: February 2020 Edition
+tournament name: WashU Bears February Monthly - Leap Day Smash
+tournament name: Clash Of The Carolinas III
+tournament name: Smash on a Stick #2: A Drexel Smash Ult. Biweekly
+tournament name: Through the Woods: Ultimate #4
+tournament name: Heroes Emerge 2020
+tournament name: You Thought! 8: Ultimate Spotlight
+tournament name: Xanadu Homecoming - Feat. Mr. E
+tournament name: Mind Over Meta
+tournament name: Tattoo SSBU - Tournament for Tattoo Prizes @ Art Machine Productions w/ Sector X
+tournament name: Superior Smash League #3
+tournament name: The Forge: S5:E2 - 1 Year Anniversary!
+tournament name: Just Dreamy Champions
+tournament name: Break the Internet 2020
+tournament name: Siouxland Smash
+tournament name: Southside Dojo - February Edition - 2/29/2020
+tournament name: UVic: Leap Saga
+tournament name: Cascadia Cup 2020: UBC vs SFU
+tournament name: Basement Tier #4 $150 Pot Bonus
+tournament name: Fight Night: Round 10
+tournament name: Geekfest 2020
+tournament name: Poultry City Classic #8 - Leap to 100
+tournament name: Westview Wildcat Rumble 3
+tournament name: Smash The Line #2 Leap Year Edition
+tournament name: UCLA Smash at the Den #3
+tournament name: マエスマTOP#2 / MaesumaTOP#2
+tournament name: Manoa Monthlies 59
+tournament name: Los Mancos del Barrio #2
+tournament name: Elite Four III
+tournament name: Smash n' Magic - 6th Edition
+tournament name: Salty Arena Bi-Weekly S3 #2
+tournament name: Smash of the Titans 6
+tournament name: Grand Capital Smash # 20
+tournament name: The Zou ($300 in Pot Bonuses)
+tournament name: Smash Hero
+tournament name: Smash Fight Club 215
+tournament name: XTR Ultimate League B.C. # 3
+tournament name: Favorit Saga
+tournament name: Arsenal 32
+tournament name: Liga RZ Torneo Mensual Fecha #1
+tournament name: Smash à Lez Bi-Monthly #27
+tournament name: SYNTHESIS 59
+tournament name: Mellow Smash Ultimate #49
+tournament name: Fusion: The Weekly #13
+tournament name: Cityscape 60
+tournament name: 6 Rugs and a Bracket #54
+tournament name: Mega Smash Mondays 231
+tournament name: EBS x Zen Gaming #59
+tournament name: Cornismash #59
+tournament name: Ultimate @ Xanadu 344
+tournament name: CFL Smackdown Ultimate #60
+tournament name: Smash Parmesan #1 -Smash Ultimate Weekly presented by 1Life2Play
+tournament name: 2 Frame Tuesday #22
+tournament name: Bonus Stage #77: Smash Bros Ultimate at 251 Club
+tournament name: LAN King Smash Weekly 3/3/20
+tournament name: Ultimate Shockwave 65
+tournament name: Xeno203
+tournament name: UB Smash Ultimate Singles Spring 2020 #4
+tournament name: Wednesday Whiffs - 03/04 $1,250 GTD
+tournament name: Smash Labs Weekly (2020-03-04)
+tournament name: Smash @ Respawn #51
+tournament name: Throwdown Thursday #50!!!!
+tournament name: SmashLAN'd 106
+tournament name: Juicy@RGB Smash Night #15
+tournament name: Thursday Throwdown 53 - March 5th, 2020
+tournament name: 4o4 ULTIMATE WEEKLY 5.2
+tournament name: SmashLoft Ultimate Weekly #65
+tournament name: Otaku Zone Season 5 Week 10
+tournament name: Don't worry about it Vol.31
+tournament name: Ultimate Vegacy Bi-weekly #5 Pre-Bros Battle, Le Grand Est is here!
+tournament name: Gametek Nights #19
+tournament name: The Grind Fridays 117
+tournament name: UMD Smash Ultimate Fest 3/6 - New Threats
+tournament name: CN:B-Airs #230
+tournament name: Stronghold: The Siege #3
+tournament name: Maji Game Night #56
+tournament name: AON Smash Ultimate #065
+tournament name: Phantom 2020
+tournament name: The Prowling Grounds 51
+tournament name: Saint Smash #3
+tournament name: Tripoint Smash 100
+tournament name: NO CAPS!! 18 @ Rudder Tower 601
+tournament name: Smash @ UofA #52 - March 6
+tournament name: U of C 2020 Winter Weekly #8
+tournament name: ウメブラSP8 / UmeburaSP8
+tournament name: Smash Bros @ WSU weekly #36
+tournament name: Raceway Fridays #36
+tournament name: Gamerz Rebooted #167
+tournament name: Revival of Kin 171
+tournament name: Modesto Monthly Showdown #4
+tournament name: Bros Battle #1 : GRAND EST VS CH'TIS 👊
+tournament name: Chocobo’s Farm
+tournament name: Codec Call 5
+tournament name: THS: Civil War
+tournament name: Heartland Showdown 2020 ($1000 Pot Bonus)
+tournament name: Nickel City Smash 21
+tournament name: Return to Subspace 3 - A New Era
+tournament name: Save Point: The PA State Championship
+tournament name: Battle Frontier III
+tournament name: Class Change Knight
+tournament name: Hazards OFF 2
+tournament name: Read the Dam Details 6
+tournament name: SKL: Open Primavera 2020
+tournament name: The Fourth Annual Smash Ball
+tournament name: Smash Strike Impact #5
+tournament name: Smashurai: The Arcadian Dojo
+tournament name: Rig the Bracket #3 - feat. North Carolina
+tournament name: [CANCELED] Emerald City 9 at HuskyX
+tournament name: Encore Smash Monthly #13
+tournament name: Platinum Star Smash S5:E2 NJ Monthly
+tournament name: SmashDEN - March 2020
+tournament name: Gator Games 14
+tournament name: Cyber Smash Saturday: Reloaded
+tournament name: Tax Deluxe: 2
+tournament name: BullSmash Featuring $200 Pot Bonus for Ultimate and Adric Customs Raffle
+tournament name: Smash @ McCarthy´s #2
+tournament name: SYNTHESIS 60
+tournament name: Fusion: The Weekly #14
+tournament name: Mellow Smash Ultimate #50
+tournament name: Clash Cafe #1
+tournament name: Cityscape 61
+tournament name: Smashtown#9 Arcadian Singles Smash Tournament
+tournament name: Mega Smash Mondays 232
+tournament name: Cornismash #60
+tournament name: Ultimate @ Xanadu 345
+tournament name: UpTilt Season 2 - Smash Weekly #9
+tournament name: Smash Parmesan Mario Day Edition presented by 1Life2Play
+tournament name: Game Underground Ultimate Weekly S05W11
+tournament name: Smash @ The Connection 8
+tournament name: Bomb Shell 6
+tournament name: LAN King Weekly: Fusion Farewell
+tournament name: Ultimate Shockwave 66
+tournament name: UB Smash Ultimate Singles Spring 2020 #5
+tournament name: Throwdown Thursday #51
+tournament name: Juicy@RGB Smash Night #16! The Nightmare Before Dreamland
+tournament name: 4o4 Ultimate Weekly 5.3
+tournament name: Otaku Zone Season 5 Week 11
+tournament name: Smash @ Swanston #11
+tournament name: CEO Dreamland 2020
+tournament name: Gametek Nights #20
+tournament name: SeaSideSmash #10
+tournament name: Amiibo Tourney #31
+tournament name: Label[i] Smash #3
+tournament name: AOT Monthly 3
+tournament name: Smashing Beasts
+tournament name: Total Reboot #3 - Spring Edition
+tournament name: Critical Hit #2
+tournament name: Grandmaster's Gateway 3
+tournament name: Smashdown Philly #1 (NCS Minor)
+tournament name: Big Blue Showdown 2
+tournament name: Space Jam #4
+tournament name: Smashkatoon 50 - Villains vs. Heroes
+tournament name: MOLE No.1
+tournament name: Smash Regional: South Fest
+tournament name: RFTV DOJO | LA DESPEDIDA : Thanks For Playing
+tournament name: Manoa Monthlies 60
+tournament name: Smash Club #4
+tournament name: Salty Arena Bi-Weekly S3 #3
+tournament name: Smash Frontier Mini CEO
+tournament name: Smash and Pepper 4
+tournament name: FINAL ROUND 2020
+tournament name: Lag Spike #3 (EZ-MASH #10)
+tournament name: RLP United!
+tournament name: ULTIMATE MAYHEM 6 - CLUTCH23. SMASH SEASON 2
+tournament name: Going Ham #5
+tournament name: Virginia Arcadian
+tournament name: PRESS LESS 2020 - Postponed
+tournament name: Home Sweet Home
+tournament name: Smashdown 2020: Colombian Smash Ultimate National
+tournament name: NCS Major | Smashdown at Localhost Denver - Cancelled
+tournament name: Confluence [POSTPONED DUE TO COVID-19]
+tournament name: Ascension: Phoenix vs Tucson
+tournament name: BeeSmash 4
+tournament name: XTR Ultimate League B.C . # 6
+tournament name: 西武撃#5
+tournament name: CGN OPEN
+tournament name: Smash at Liege Tournament 15
+tournament name: Dragon Ascent
+tournament name: HTS Ultimate #6 - SpringBreak
+tournament name: Full Bloom 6
+tournament name: Smash Horizon III - Powered By New Horizon Mall
+tournament name: Eternal Horizons
+tournament name: *POUND* 2020
+tournament name: AOT Monthly 4
+tournament name: SOLARY CIRCUIT - Etape Strasbourgeoise, le GOLDEN FLAME
+tournament name: Crunch Cup Smash Vol. 4
+tournament name: No Money 4 Tech V
+tournament name: Amiibo Tourney #32: Mario Saga
+tournament name: Tech Republic V (Cancelled)
+tournament name: Mentes Galaxianas #1
+tournament name: Nole's Play for Charity
+tournament name: AOT Weekly 13
+tournament name: Atlantis
+tournament name: AOT Weekly 14
+tournament name: Domopalooza Smash-Up $1000 pot bonus
+tournament name: Youngstown Trials: New Horizons
+tournament name: Youngstown Trials: New Horizons
+tournament name: AOT Weekly 15
+tournament name: Kings of Hali 5
+tournament name: AOT Monthly 5
+tournament name: Crown II
+tournament name: AOT Weekly 16
+tournament name: Spartan Weeklies Test
+tournament name: Rock N' Roll
+tournament name: Cospendium SSBU Community Tournament
+tournament name: AOT Weekly 17
+tournament name: Smash'N'Splash 6
+tournament name: Xi Gai Tong 2020 May
+tournament name: AOT Weekly 18
+tournament name: AOT Weekly 19
+tournament name: COST 2020
+tournament name: AOT Weekly 20
+tournament name: Xi Gai Tong Shi 2020 June
+tournament name: Cospendium SSBU June
+tournament name: SeaSideSmash #11 - The Return of Auckland Smash
+tournament name: Saint Smash #4
+tournament name: Saint Smash #4
+tournament name: MaesumaTOP#3
+tournament name: Amiibo Tourney #33
+tournament name: LAN King Reopening Veteran Tourney
+tournament name: SeaSideSmash #12
+tournament name: Smash Castle : Tryhard Kingdom Tournament
+tournament name: Breakpoint Ultimate - FOUR
+tournament name: Cospendium SSBU July
+tournament name: Smash @ Respawn #57
+tournament name: Super Smash Stadium #1
+tournament name: Smash @ Respawn #58
+tournament name: Amiibo Tourney #34
+tournament name: Summer of CPU
+tournament name: AOT Monthly 6
+tournament name: Smash @ Respawn #59
+tournament name: LAN King Weekly 8/11/2020
+tournament name: Smash @ Respawn #60
+tournament name: Smash Castle : Joker Kingdom Tournament
+tournament name: Cospendium SSBU August
+tournament name: LAN King Weekly 8/18/2020
+tournament name: Breakpoint Ultimate - FIVE
+tournament name: CANCELLED - Collision 2020 - A Tri-State Smash Ultimate National
+tournament name: Reset Ligue - S2E4
+tournament name: Amiibo Tourney #35: Ramirez Saga
+tournament name: Untag x Petit Bain
+tournament name: Xi Gai Tong 2020 September
+tournament name: AOT Monthly 7
+tournament name: Bearded Beatdown
+tournament name: Reset Ligue - S2E5
+tournament name: Siege The North
+tournament name: Breakpoint Ultimate - SIX
+tournament name: HitStun #1
+tournament name: HitStun #1
+tournament name: Sacred Sanctuary: Transcendence
+tournament name: Murdoch Presents Smash Bros in the CBD - Smash Ultimate Tournament
+tournament name: Amiibo Tourney #36
+tournament name: Lagmania#6
+tournament name: DOSE2SEL 9/20
+tournament name: TWELVE I - 2020
+tournament name: PEGASO IV
+tournament name: ICO x GG #2 SSBU
+tournament name: Wundertüte
+tournament name: AOT Weekly 33
+tournament name: Saint Smash #5
+tournament name: Smash Revolution Sessions 00
+tournament name: 4o4 Ultimate Weekly XIX
+tournament name: AOT Weekly 34
+tournament name: Angers Geekfest 2020
+tournament name: Weekly by Vegacy
+tournament name: 4o4 Ultimate Weekly XX
+tournament name: SeaSideSmash #13
+tournament name: HitStun #2
+tournament name: TWELVE II - 2020
+tournament name: マエスマTOP#4『1on1』/ MaesumaTOP#4『1on1』
+tournament name: AOT Monthly 9
+tournament name: LSC Smash - Link Montpellier × Smash à Lez
+tournament name: Encuentro Mítico 2020
+tournament name: XTR Tijuana PR  # 1
+tournament name: Docked & Loaded
+tournament name: Sonic Rain Smash! 2020 (Private Tournament)
+tournament name: Murdoch Presents GAME ON: Smash Bros in the CBD
+
